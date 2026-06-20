@@ -36,8 +36,6 @@ def fetch_schedule_from_site():
             return None
         
         html_content = response.text
-
-        # 1. Procura a variável nas tags <script> do HTML principal ou nos arquivos JS
         scripts = re.findall(r'<script.*?>(.*?)</script>', html_content, re.DOTALL)
         
         js_files = re.findall(r'src=["\'](.*?\.(?:js|ts))["\']', html_content)
@@ -52,24 +50,16 @@ def fetch_schedule_from_site():
 
         for content in scripts:
             if "WEEKLY_SCHEDULE" in content:
-                # Captura o bloco do objeto WEEKLY_SCHEDULE
                 match = re.search(r'const\s+WEEKLY_SCHEDULE\s*=\s*(\{.*?\});', content, re.DOTALL)
                 if match:
                     js_text = match.group(1)
                     
-                    # Limpeza agressiva e segura para gerar um JSON válido:
-                    # Remove comentários de linha (// ...)
+                    # Limpeza para gerar um JSON válido
                     js_text = re.sub(r'//.*', '', js_text)
-                    # Força aspas duplas em todas as chaves (ex: start: -> "start":)
                     js_text = re.sub(r'([{,\s])(\w+)\s*:', r'\1"\2":', js_text)
-                    # Transforma aspas simples em aspas duplas nos valores
                     js_text = re.sub(r"'\s*(.*?)\s*'", r'"\1"', js_text)
-                    # Remove espaços em branco extras e quebras de linha que quebram o parser
                     js_text = re.sub(r'\s+', ' ', js_text)
-                    # Remove vírgulas trapaceiras no final de arrays/objetos: ex: [1, 2, ] -> [1, 2]
                     js_text = re.sub(r',\s*([\]}])', r'\1', js_text)
-                    
-                    # Garante que as chaves dos dias fiquem estritamente entre aspas duplas
                     js_text = re.sub(r'([{,])\s*([0-6]|default|Monday|Wednesday|Thursday|Saturday)\s*:', r'\1"\2":', js_text)
 
                     return json.loads(js_text)
@@ -83,12 +73,12 @@ def generate_automated_xml():
     weekly_data = fetch_schedule_from_site()
     
     if not weekly_data:
-        print("Não foi possível extrair a programação diretamente do site por varredura automática.")
+        print("Não foi possível extrair a programação diretamente do site.")
         return
 
-    print("Programação encontrada e decodificada com sucesso! Construindo a grade EPG...")
+    print("Programação encontrada! Organizando linha do tempo cronológica...")
 
-    # Mapeamento para normalizar os nomes dos dias usados no código do site
+    # Mapeamento estrito para normalizar os dias da semana (0=DOM, 1=SEG...)
     day_mapping = {
         "Sunday": 0, "0": 0,
         "default": 1, "Monday": 1, "1": 1,
@@ -99,26 +89,35 @@ def generate_automated_xml():
         "6": 6, "Saturday": 6
     }
 
+    # Criamos um dicionário vazio ordenado de 0 a 6 para receber os dados limpos
+    timeline_ordered = {i: [] for i in range(7)}
+
+    # Agrupa os programas no seu respectivo dia numérico correto
+    for day_key, programs in weekly_data.items():
+        day_offset = day_mapping.get(day_key)
+        if day_offset is not None:
+            # Evita duplicar se o site tiver chaves redundantes como 'default' e '1' juntos
+            if not timeline_ordered[day_offset]:
+                timeline_ordered[day_offset] = programs
+
+    # Inicializa árvore XML
     tv = ET.Element("tv", generator_info_name="LatinaSat EPG Extractor")
     channel = ET.SubElement(tv, "channel", id=CHANNEL_ID)
     ET.SubElement(channel, "display-name").text = CHANNEL_NAME
 
     start_of_week = get_start_of_week()
 
-    for day_key, programs in weekly_data.items():
-        day_offset = day_mapping.get(day_key)
-        if day_offset is None:
-            try:
-                day_offset = int(day_key)
-            except:
-                continue
-                
+    # AGORA SIM: Lemos o dicionário estritamente em ordem de 0 a 6
+    for day_offset in sorted(timeline_ordered.keys()):
+        programs = timeline_ordered[day_offset]
         program_date = start_of_week + timedelta(days=day_offset)
         
-        for p in programs:
+        # Ordena os programas do dia pelo horário de início para garantir fluxo contínuo
+        programs_sorted = sorted(programs, key=lambda x: x.get("start", "00:00"))
+        
+        for p in programs_sorted:
             title = p.get("label") or p.get("title") or "Programação LatinaSat"
             desc = p.get("desc", "")
-            
             start_time = p.get("start")
             end_time = p.get("end")
             
@@ -128,6 +127,7 @@ def generate_automated_xml():
             start_xml = format_xmltv_date(program_date, start_time)
             end_xml = format_xmltv_date(program_date, end_time)
 
+            # Correção de virada de dia na meia-noite/madrugada
             if end_time == "00:00":
                 end_program_date = program_date + timedelta(days=1)
                 end_xml = format_xmltv_date(end_program_date, "00:00")
@@ -145,11 +145,12 @@ def generate_automated_xml():
                 if desc:
                     ET.SubElement(programme, "desc", lang="pt").text = desc
 
+    # Gravação final com formatação limpa
     xml_str = minidom.parseString(ET.tostring(tv, 'utf-8')).toprettyxml(indent="  ")
     with open("latinasat_epg.xml", "w", encoding="utf-8") as f:
         f.write(xml_str)
         
-    print("[SUCESSO] O arquivo 'latinasat_epg.xml' foi gerado e atualizado direto da web!")
+    print("[SUCESSO] O arquivo 'latinasat_epg.xml' foi gerado em ordem cronológica perfeita!")
 
 if __name__ == "__main__":
     generate_automated_xml()
