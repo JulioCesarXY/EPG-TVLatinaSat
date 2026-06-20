@@ -1,4 +1,4 @@
-name: Atualizar LatinaSat EPG
+name: Atualizar TV LatinaSat EPG
 
 on:
   schedule:
