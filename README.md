@@ -14,7 +14,7 @@ O site da LatinaSat gerencia a programação de forma dinâmica através de uma 
 
 Para garantir que a grade nunca fique desatualizada, o projeto utiliza o **GitHub Actions** para rodar o script de forma autônoma todos os dias de madrugada, commitando o arquivo atualizado diretamente neste repositório.
 
-## 🔗 Link Direto para o Player (URL do EPG)
+## 🔗 Link Direto para o Player (M3U8 e EPG)
 
 Para utilizar o Stream, basta copiar e colar a URL abaixo em sua Lista IPTV:
 
