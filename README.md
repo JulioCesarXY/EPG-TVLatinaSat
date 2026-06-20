@@ -1,4 +1,6 @@
-# EPG-TVLatinaSat 📺
+<p align="center">
+  <img src="https://latinasat.com.br/logo.png" alt="Latina Sat Brasil Logo" width="250"/>
+</p>
 
 ![Atualizar LatinaSat EPG](https://github.com/JulioCesarXY/EPG-TVLatinaSat/actions/workflows/update_epg.yml/badge.svg)
 
