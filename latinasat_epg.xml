@@ -1,0 +1,378 @@
+<?xml version="1.0" ?>
+<tv generator_info_name="LatinaSat EPG Extractor">
+  <channel id="latinasat.br">
+    <display-name>Latina Sat Brasil</display-name>
+  </channel>
+  <programme start="20260614000000 -0300" stop="20260614011500 -0300" channel="latinasat.br">
+    <title lang="pt">South Park</title>
+    <desc lang="pt">Humor politicamente incorreto</desc>
+  </programme>
+  <programme start="20260614011500 -0300" stop="20260614060000 -0300" channel="latinasat.br">
+    <title lang="pt">Programação LatinaSat FM</title>
+    <desc lang="pt">O melhor da rádio na sua TV</desc>
+  </programme>
+  <programme start="20260614060000 -0300" stop="20260614080000 -0300" channel="latinasat.br">
+    <title lang="pt">Aperta o Play (Reprise)</title>
+    <desc lang="pt">com Di Calheiros</desc>
+  </programme>
+  <programme start="20260614080000 -0300" stop="20260614090000 -0300" channel="latinasat.br">
+    <title lang="pt">Santa Missa (AO VIVO)</title>
+  </programme>
+  <programme start="20260614090000 -0300" stop="20260614120000 -0300" channel="latinasat.br">
+    <title lang="pt">Latina Kids</title>
+    <desc lang="pt">Desenhos clássicos</desc>
+  </programme>
+  <programme start="20260614120000 -0300" stop="20260614121500 -0300" channel="latinasat.br">
+    <title lang="pt">Boletim Latina Brasil</title>
+    <desc lang="pt">As principais notícias do dia</desc>
+  </programme>
+  <programme start="20260614121500 -0300" stop="20260614153000 -0300" channel="latinasat.br">
+    <title lang="pt">Séries Premiadas</title>
+    <desc lang="pt">Xena/Eu, a Patroa e as Crianças/Chaves</desc>
+  </programme>
+  <programme start="20260614153000 -0300" stop="20260614180000 -0300" channel="latinasat.br">
+    <title lang="pt">Cine Fun</title>
+    <desc lang="pt">Filmes para a família</desc>
+  </programme>
+  <programme start="20260614180000 -0300" stop="20260614200000 -0300" channel="latinasat.br">
+    <title lang="pt">Os Simpsons</title>
+    <desc lang="pt">Maratona amarela</desc>
+  </programme>
+  <programme start="20260614200000 -0300" stop="20260614210000 -0300" channel="latinasat.br">
+    <title lang="pt">Canal Jonn na Latinasat</title>
+  </programme>
+  <programme start="20260614210000 -0300" stop="20260614220000 -0300" channel="latinasat.br">
+    <title lang="pt">EgoTime</title>
+  </programme>
+  <programme start="20260614220000 -0300" stop="20260615000000 -0300" channel="latinasat.br">
+    <title lang="pt">Festival de Filmes</title>
+    <desc lang="pt">Os campeões de bilheteria</desc>
+  </programme>
+  <programme start="20260615000000 -0300" stop="20260615000500 -0300" channel="latinasat.br">
+    <title lang="pt">Boletim Latina Brasil</title>
+    <desc lang="pt">As principais notícias do dia</desc>
+  </programme>
+  <programme start="20260615000500 -0300" stop="20260615011500 -0300" channel="latinasat.br">
+    <title lang="pt">South Park</title>
+    <desc lang="pt">Humor politicamente incorreto</desc>
+  </programme>
+  <programme start="20260615011500 -0300" stop="20260615060000 -0300" channel="latinasat.br">
+    <title lang="pt">Programação LatinaSat FM</title>
+    <desc lang="pt">O melhor da rádio na sua TV</desc>
+  </programme>
+  <programme start="20260615060000 -0300" stop="20260615120000 -0300" channel="latinasat.br">
+    <title lang="pt">Latina Kids</title>
+    <desc lang="pt">Desenhos clássicos</desc>
+  </programme>
+  <programme start="20260615120000 -0300" stop="20260615121500 -0300" channel="latinasat.br">
+    <title lang="pt">Boletim Latina Brasil</title>
+    <desc lang="pt">As principais notícias do dia</desc>
+  </programme>
+  <programme start="20260615121500 -0300" stop="20260615153000 -0300" channel="latinasat.br">
+    <title lang="pt">Séries Premiadas</title>
+    <desc lang="pt">Xena/Eu, a Patroa e as Crianças/Chaves</desc>
+  </programme>
+  <programme start="20260615153000 -0300" stop="20260615180000 -0300" channel="latinasat.br">
+    <title lang="pt">Cine Fun</title>
+    <desc lang="pt">Filmes para a família</desc>
+  </programme>
+  <programme start="20260615180000 -0300" stop="20260615181500 -0300" channel="latinasat.br">
+    <title lang="pt">Boletim Latina Brasil</title>
+    <desc lang="pt">As principais notícias do dia</desc>
+  </programme>
+  <programme start="20260615181500 -0300" stop="20260615190000 -0300" channel="latinasat.br">
+    <title lang="pt">Anos Incríveis</title>
+    <desc lang="pt">2 episódios</desc>
+  </programme>
+  <programme start="20260615190000 -0300" stop="20260615192500 -0300" channel="latinasat.br">
+    <title lang="pt">Blossom</title>
+    <desc lang="pt">1 episódio</desc>
+  </programme>
+  <programme start="20260615192500 -0300" stop="20260615200000 -0300" channel="latinasat.br">
+    <title lang="pt">De volta aos Anos 70</title>
+    <desc lang="pt">2 episódios</desc>
+  </programme>
+  <programme start="20260615200000 -0300" stop="20260615210000 -0300" channel="latinasat.br">
+    <title lang="pt">Especial</title>
+  </programme>
+  <programme start="20260615210000 -0300" stop="20260615224500 -0300" channel="latinasat.br">
+    <title lang="pt">Festival de Filmes</title>
+    <desc lang="pt">Os campeões de bilheteria</desc>
+  </programme>
+  <programme start="20260615224500 -0300" stop="20260616000000 -0300" channel="latinasat.br">
+    <title lang="pt">Clube das Séries</title>
+    <desc lang="pt">Os Simpsons/Dois Homens e Meio/2 Broke Girls</desc>
+  </programme>
+  <programme start="20260616000000 -0300" stop="20260616000500 -0300" channel="latinasat.br">
+    <title lang="pt">Boletim Latina Brasil</title>
+    <desc lang="pt">As principais notícias do dia</desc>
+  </programme>
+  <programme start="20260616000500 -0300" stop="20260616011500 -0300" channel="latinasat.br">
+    <title lang="pt">South Park</title>
+    <desc lang="pt">Humor politicamente incorreto</desc>
+  </programme>
+  <programme start="20260616011500 -0300" stop="20260616060000 -0300" channel="latinasat.br">
+    <title lang="pt">Programação LatinaSat FM</title>
+    <desc lang="pt">O melhor da rádio na sua TV</desc>
+  </programme>
+  <programme start="20260616060000 -0300" stop="20260616120000 -0300" channel="latinasat.br">
+    <title lang="pt">Latina Kids</title>
+    <desc lang="pt">Desenhos clássicos</desc>
+  </programme>
+  <programme start="20260616120000 -0300" stop="20260616121500 -0300" channel="latinasat.br">
+    <title lang="pt">Boletim Latina Brasil</title>
+    <desc lang="pt">As principais notícias do dia</desc>
+  </programme>
+  <programme start="20260616121500 -0300" stop="20260616153000 -0300" channel="latinasat.br">
+    <title lang="pt">Séries Premiadas</title>
+    <desc lang="pt">Xena/Eu, a Patroa e as Crianças/Chaves</desc>
+  </programme>
+  <programme start="20260616153000 -0300" stop="20260616180000 -0300" channel="latinasat.br">
+    <title lang="pt">Cine Fun</title>
+    <desc lang="pt">Filmes para a família</desc>
+  </programme>
+  <programme start="20260616180000 -0300" stop="20260616181500 -0300" channel="latinasat.br">
+    <title lang="pt">Boletim Latina Brasil</title>
+    <desc lang="pt">As principais notícias do dia</desc>
+  </programme>
+  <programme start="20260616181500 -0300" stop="20260616190000 -0300" channel="latinasat.br">
+    <title lang="pt">Anos Incríveis</title>
+    <desc lang="pt">2 episódios</desc>
+  </programme>
+  <programme start="20260616190000 -0300" stop="20260616192500 -0300" channel="latinasat.br">
+    <title lang="pt">Blossom</title>
+    <desc lang="pt">1 episódio</desc>
+  </programme>
+  <programme start="20260616192500 -0300" stop="20260616201000 -0300" channel="latinasat.br">
+    <title lang="pt">De volta aos Anos 70</title>
+    <desc lang="pt">2 episódios</desc>
+  </programme>
+  <programme start="20260616201000 -0300" stop="20260616210000 -0300" channel="latinasat.br">
+    <title lang="pt">Show do Milhão</title>
+  </programme>
+  <programme start="20260616210000 -0300" stop="20260616224500 -0300" channel="latinasat.br">
+    <title lang="pt">Festival de Filmes</title>
+    <desc lang="pt">Os campeões de bilheteria</desc>
+  </programme>
+  <programme start="20260616224500 -0300" stop="20260617000000 -0300" channel="latinasat.br">
+    <title lang="pt">Clube das Séries</title>
+    <desc lang="pt">Os Simpsons/Dois Homens e Meio/2 Broke Girls</desc>
+  </programme>
+  <programme start="20260617000000 -0300" stop="20260617000500 -0300" channel="latinasat.br">
+    <title lang="pt">Boletim Latina Brasil</title>
+    <desc lang="pt">As principais notícias do dia</desc>
+  </programme>
+  <programme start="20260617000500 -0300" stop="20260617011500 -0300" channel="latinasat.br">
+    <title lang="pt">South Park</title>
+    <desc lang="pt">Humor politicamente incorreto</desc>
+  </programme>
+  <programme start="20260617011500 -0300" stop="20260617060000 -0300" channel="latinasat.br">
+    <title lang="pt">Programação LatinaSat FM</title>
+    <desc lang="pt">O melhor da rádio na sua TV</desc>
+  </programme>
+  <programme start="20260617060000 -0300" stop="20260617120000 -0300" channel="latinasat.br">
+    <title lang="pt">Latina Kids</title>
+    <desc lang="pt">Desenhos clássicos</desc>
+  </programme>
+  <programme start="20260617120000 -0300" stop="20260617121500 -0300" channel="latinasat.br">
+    <title lang="pt">Boletim Latina Brasil</title>
+    <desc lang="pt">As principais notícias do dia</desc>
+  </programme>
+  <programme start="20260617121500 -0300" stop="20260617153000 -0300" channel="latinasat.br">
+    <title lang="pt">Séries Premiadas</title>
+    <desc lang="pt">Xena/Eu, a Patroa e as Crianças/Chaves</desc>
+  </programme>
+  <programme start="20260617153000 -0300" stop="20260617180000 -0300" channel="latinasat.br">
+    <title lang="pt">Cine Fun</title>
+    <desc lang="pt">Filmes para a família</desc>
+  </programme>
+  <programme start="20260617180000 -0300" stop="20260617181500 -0300" channel="latinasat.br">
+    <title lang="pt">Boletim Latina Brasil</title>
+    <desc lang="pt">As principais notícias do dia</desc>
+  </programme>
+  <programme start="20260617181500 -0300" stop="20260617190000 -0300" channel="latinasat.br">
+    <title lang="pt">Anos Incríveis</title>
+    <desc lang="pt">2 episódios</desc>
+  </programme>
+  <programme start="20260617190000 -0300" stop="20260617192500 -0300" channel="latinasat.br">
+    <title lang="pt">Blossom</title>
+    <desc lang="pt">1 episódio</desc>
+  </programme>
+  <programme start="20260617192500 -0300" stop="20260617200000 -0300" channel="latinasat.br">
+    <title lang="pt">De volta aos Anos 70</title>
+    <desc lang="pt">2 episódios</desc>
+  </programme>
+  <programme start="20260617200000 -0300" stop="20260617210000 -0300" channel="latinasat.br">
+    <title lang="pt">Aperta o Play</title>
+    <desc lang="pt">com Di Calheiros</desc>
+  </programme>
+  <programme start="20260617210000 -0300" stop="20260617224500 -0300" channel="latinasat.br">
+    <title lang="pt">Festival de Filmes</title>
+    <desc lang="pt">Os campeões de bilheteria</desc>
+  </programme>
+  <programme start="20260617224500 -0300" stop="20260618000000 -0300" channel="latinasat.br">
+    <title lang="pt">Clube das Séries</title>
+    <desc lang="pt">Os Simpsons/Dois Homens e Meio/2 Broke Girls</desc>
+  </programme>
+  <programme start="20260618000000 -0300" stop="20260618000500 -0300" channel="latinasat.br">
+    <title lang="pt">Boletim Latina Brasil</title>
+    <desc lang="pt">As principais notícias do dia</desc>
+  </programme>
+  <programme start="20260618000500 -0300" stop="20260618011500 -0300" channel="latinasat.br">
+    <title lang="pt">South Park</title>
+    <desc lang="pt">Humor politicamente incorreto</desc>
+  </programme>
+  <programme start="20260618011500 -0300" stop="20260618060000 -0300" channel="latinasat.br">
+    <title lang="pt">Programação LatinaSat FM</title>
+    <desc lang="pt">O melhor da rádio na sua TV</desc>
+  </programme>
+  <programme start="20260618060000 -0300" stop="20260618120000 -0300" channel="latinasat.br">
+    <title lang="pt">Latina Kids</title>
+    <desc lang="pt">Desenhos clássicos</desc>
+  </programme>
+  <programme start="20260618120000 -0300" stop="20260618121500 -0300" channel="latinasat.br">
+    <title lang="pt">Boletim Latina Brasil</title>
+    <desc lang="pt">As principais notícias do dia</desc>
+  </programme>
+  <programme start="20260618121500 -0300" stop="20260618153000 -0300" channel="latinasat.br">
+    <title lang="pt">Séries Premiadas</title>
+    <desc lang="pt">Xena/Eu, a Patroa e as Crianças/Chaves</desc>
+  </programme>
+  <programme start="20260618153000 -0300" stop="20260618180000 -0300" channel="latinasat.br">
+    <title lang="pt">Cine Fun</title>
+    <desc lang="pt">Filmes para a família</desc>
+  </programme>
+  <programme start="20260618180000 -0300" stop="20260618181500 -0300" channel="latinasat.br">
+    <title lang="pt">Boletim Latina Brasil</title>
+    <desc lang="pt">As principais notícias do dia</desc>
+  </programme>
+  <programme start="20260618181500 -0300" stop="20260618190000 -0300" channel="latinasat.br">
+    <title lang="pt">Anos Incríveis</title>
+    <desc lang="pt">2 episódios</desc>
+  </programme>
+  <programme start="20260618190000 -0300" stop="20260618192500 -0300" channel="latinasat.br">
+    <title lang="pt">Blossom</title>
+    <desc lang="pt">1 episódio</desc>
+  </programme>
+  <programme start="20260618192500 -0300" stop="20260618201000 -0300" channel="latinasat.br">
+    <title lang="pt">De volta aos Anos 70</title>
+    <desc lang="pt">2 episódios</desc>
+  </programme>
+  <programme start="20260618201000 -0300" stop="20260618203000 -0300" channel="latinasat.br">
+    <title lang="pt">Hora do Oba</title>
+    <desc lang="pt">com Daniel Yahir</desc>
+  </programme>
+  <programme start="20260618203000 -0300" stop="20260618210000 -0300" channel="latinasat.br">
+    <title lang="pt">Zuera</title>
+    <desc lang="pt">Os vídeos mais engraçados da internet</desc>
+  </programme>
+  <programme start="20260618210000 -0300" stop="20260618224500 -0300" channel="latinasat.br">
+    <title lang="pt">Festival de Filmes</title>
+    <desc lang="pt">Os campeões de bilheteria</desc>
+  </programme>
+  <programme start="20260618224500 -0300" stop="20260619000000 -0300" channel="latinasat.br">
+    <title lang="pt">Clube das Séries</title>
+    <desc lang="pt">Os Simpsons/Dois Homens e Meio/2 Broke Girls</desc>
+  </programme>
+  <programme start="20260619000000 -0300" stop="20260619000500 -0300" channel="latinasat.br">
+    <title lang="pt">Boletim Latina Brasil</title>
+    <desc lang="pt">As principais notícias do dia</desc>
+  </programme>
+  <programme start="20260619000500 -0300" stop="20260619011500 -0300" channel="latinasat.br">
+    <title lang="pt">South Park</title>
+    <desc lang="pt">Humor politicamente incorreto</desc>
+  </programme>
+  <programme start="20260619011500 -0300" stop="20260619060000 -0300" channel="latinasat.br">
+    <title lang="pt">Programação LatinaSat FM</title>
+    <desc lang="pt">O melhor da rádio na sua TV</desc>
+  </programme>
+  <programme start="20260619060000 -0300" stop="20260619120000 -0300" channel="latinasat.br">
+    <title lang="pt">Latina Kids</title>
+    <desc lang="pt">Desenhos clássicos</desc>
+  </programme>
+  <programme start="20260619120000 -0300" stop="20260619121500 -0300" channel="latinasat.br">
+    <title lang="pt">Boletim Latina Brasil</title>
+    <desc lang="pt">As principais notícias do dia</desc>
+  </programme>
+  <programme start="20260619121500 -0300" stop="20260619153000 -0300" channel="latinasat.br">
+    <title lang="pt">Séries Premiadas</title>
+    <desc lang="pt">Xena/Eu, a Patroa e as Crianças/Chaves</desc>
+  </programme>
+  <programme start="20260619153000 -0300" stop="20260619180000 -0300" channel="latinasat.br">
+    <title lang="pt">Cine Fun</title>
+    <desc lang="pt">Filmes para a família</desc>
+  </programme>
+  <programme start="20260619180000 -0300" stop="20260619181500 -0300" channel="latinasat.br">
+    <title lang="pt">Boletim Latina Brasil</title>
+    <desc lang="pt">As principais notícias do dia</desc>
+  </programme>
+  <programme start="20260619181500 -0300" stop="20260619190000 -0300" channel="latinasat.br">
+    <title lang="pt">Anos Incríveis</title>
+    <desc lang="pt">2 episódios</desc>
+  </programme>
+  <programme start="20260619190000 -0300" stop="20260619192500 -0300" channel="latinasat.br">
+    <title lang="pt">Blossom</title>
+    <desc lang="pt">1 episódio</desc>
+  </programme>
+  <programme start="20260619192500 -0300" stop="20260619200000 -0300" channel="latinasat.br">
+    <title lang="pt">De volta aos Anos 70</title>
+    <desc lang="pt">2 episódios</desc>
+  </programme>
+  <programme start="20260619200000 -0300" stop="20260619210000 -0300" channel="latinasat.br">
+    <title lang="pt">Especial</title>
+  </programme>
+  <programme start="20260619210000 -0300" stop="20260619224500 -0300" channel="latinasat.br">
+    <title lang="pt">Festival de Filmes</title>
+    <desc lang="pt">Os campeões de bilheteria</desc>
+  </programme>
+  <programme start="20260619224500 -0300" stop="20260620000000 -0300" channel="latinasat.br">
+    <title lang="pt">Clube das Séries</title>
+    <desc lang="pt">Os Simpsons/Dois Homens e Meio/2 Broke Girls</desc>
+  </programme>
+  <programme start="20260620000000 -0300" stop="20260620000500 -0300" channel="latinasat.br">
+    <title lang="pt">Boletim Latina Brasil</title>
+    <desc lang="pt">As principais notícias do dia</desc>
+  </programme>
+  <programme start="20260620000500 -0300" stop="20260620011500 -0300" channel="latinasat.br">
+    <title lang="pt">South Park</title>
+    <desc lang="pt">Humor politicamente incorreto</desc>
+  </programme>
+  <programme start="20260620011500 -0300" stop="20260620060000 -0300" channel="latinasat.br">
+    <title lang="pt">Programação LatinaSat FM</title>
+    <desc lang="pt">O melhor da rádio na sua TV</desc>
+  </programme>
+  <programme start="20260620060000 -0300" stop="20260620080000 -0300" channel="latinasat.br">
+    <title lang="pt">Aperta o Play (Reprise)</title>
+    <desc lang="pt">com Di Calheiros</desc>
+  </programme>
+  <programme start="20260620080000 -0300" stop="20260620120000 -0300" channel="latinasat.br">
+    <title lang="pt">Latina Kids</title>
+    <desc lang="pt">Desenhos clássicos</desc>
+  </programme>
+  <programme start="20260620120000 -0300" stop="20260620121500 -0300" channel="latinasat.br">
+    <title lang="pt">Boletim Latina Brasil</title>
+    <desc lang="pt">As principais notícias do dia</desc>
+  </programme>
+  <programme start="20260620121500 -0300" stop="20260620153000 -0300" channel="latinasat.br">
+    <title lang="pt">Séries Premiadas</title>
+    <desc lang="pt">Xena/Eu, a Patroa e as Crianças/Chaves</desc>
+  </programme>
+  <programme start="20260620153000 -0300" stop="20260620180000 -0300" channel="latinasat.br">
+    <title lang="pt">Cine Fun</title>
+    <desc lang="pt">Filmes para a família</desc>
+  </programme>
+  <programme start="20260620180000 -0300" stop="20260620200000 -0300" channel="latinasat.br">
+    <title lang="pt">Os Simpsons</title>
+    <desc lang="pt">Maratona amarela</desc>
+  </programme>
+  <programme start="20260620200000 -0300" stop="20260620210000 -0300" channel="latinasat.br">
+    <title lang="pt">Canal Jonn na Latinasat</title>
+  </programme>
+  <programme start="20260620210000 -0300" stop="20260620220000 -0300" channel="latinasat.br">
+    <title lang="pt">EgoTime</title>
+  </programme>
+  <programme start="20260620220000 -0300" stop="20260621000000 -0300" channel="latinasat.br">
+    <title lang="pt">Festival de Filmes</title>
+    <desc lang="pt">Os campeões de bilheteria</desc>
+  </programme>
+</tv>
