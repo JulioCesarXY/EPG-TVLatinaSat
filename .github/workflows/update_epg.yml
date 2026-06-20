@@ -29,7 +29,7 @@ jobs:
 
     # 4. Executa o seu script que puxa os dados e gera o arquivo latinasat_epg.xml
     - name: Run EPG Extractor
-      run: python get_epg.py
+      run: python gerar_epg.py
 
     # 5. Salva o arquivo modificado de volta no seu repositório de forma automática
     - name: Commit and Push Changes
