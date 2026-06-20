@@ -16,10 +16,10 @@ Para garantir que a grade nunca fique desatualizada, o projeto utiliza o **GitHu
 
 ## 🔗 Link Direto para o Player (M3U8 e EPG)
 
-Para utilizar o Stream, basta copiar e colar a URL abaixo em sua Lista IPTV:
+Para utilizar o Stream, basta copiar e mudar a (`CATEGORIA`) e colar na sua Lista IPTV:
 
 ```text
-#EXTINF:-1 tvg-id="latinasat.br" tvg-logo="https://latinasat.com.br/logo.png",TV LatinaSat
+#EXTINF:-1 tvg-id="latinasat.br" tvg-logo="https://latinasat.com.br/logo.png" group-title="CATEGORIA",TV LatinaSat
 https://www.latinasat.com.br/hls/live/stream/index.m3u8
 ```
 
