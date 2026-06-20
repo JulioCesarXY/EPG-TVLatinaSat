@@ -12,6 +12,13 @@ Para garantir que a grade nunca fique desatualizada, o projeto utiliza o **GitHu
 
 ## 🔗 Link Direto para o Player (URL do EPG)
 
+Para utilizar o Stream, basta copiar e colar a URL abaixo em sua Lista IPTV:
+
+```text
+#EXTINF:-1 tvg-id="latinasat.br" tvg-logo="https://latinasat.com.br/logo.png",TV LatinaSat
+https://www.latinasat.com.br/hls/live/stream/index.m3u8
+```
+
 Para utilizar este guia de programação no seu player de IPTV (como Tivimate, Perfect Player, OTT Navigator, Next.js UI, etc.), basta copiar e colar a URL abaixo:
 
 ```text
