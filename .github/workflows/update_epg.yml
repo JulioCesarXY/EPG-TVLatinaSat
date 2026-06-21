@@ -56,4 +56,4 @@ jobs:
         git add latinasat_epg.xml README.md
         
         # Faz o commit apenas se houver modificações reais
-        git diff --quiet && git diff --staged --quiet || (git commit -m "EPG & README Automático: Grade atualizada" && git push)
+        git diff --quiet && git diff --staged --quiet || (git commit -m "EPG: Grade Atualizada ✅" && git push)
