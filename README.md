@@ -14,7 +14,7 @@ O site da LatinaSat gerencia a programação de forma dinâmica através de uma 
 
 Para garantir que a grade nunca fique desatualizada, o projeto utiliza o **GitHub Actions** para rodar o script de forma autônoma todos os dias de madrugada, commitando o arquivo atualizado diretamente neste repositório.
 
-## 🔗 Link Direto para o Player (M3U8 e EPG)
+## 🔗 Link Direto para o Player (M3U8)
 
 Para utilizar o Stream, basta copiar e mudar a (`CATEGORIA`) e colar na sua Lista IPTV:
 
@@ -22,7 +22,7 @@ Para utilizar o Stream, basta copiar e mudar a (`CATEGORIA`) e colar na sua List
 #EXTINF:-1 tvg-id="latinasat.br" tvg-logo="https://latinasat.com.br/logo.png" group-title="CATEGORIA",TV LatinaSat
 https://www.latinasat.com.br/hls/live/stream/index.m3u8
 ```
-
+## 🔗 Link Direto para o Player (EPG)
 Para utilizar este guia de programação no seu player de IPTV (como Tivimate, Perfect Player, OTT Navigator, Next.js UI, etc.), basta copiar e colar a URL abaixo:
 
 ```text
