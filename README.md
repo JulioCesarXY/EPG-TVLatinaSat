@@ -38,6 +38,6 @@ Permitir disparo manual direto pela aba Actions do repositório (workflow_dispat
 
 Verificar se houve mudanças reais na grade antes de realizar um novo commit para evitar históricos de commits redundantes.
 
-Mantenha o seu guia sempre atualizado rodando de forma perpétua!]
+Mantenha o seu guia sempre atualizado rodando de forma perpétua!
 
 Desenvolvido com ❤️ por JulioCesarXY.
