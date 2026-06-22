@@ -6,7 +6,7 @@
 <!-- LAST_UPDATE --> 🕒 **Última Atualização:** `21/06/2026 às 05:37 (BRT)`
 
 ---
-Script automatizado em Python para extração da grade de programação completa do canal **Latina Sat Brasil** diretamente do código-fonte do site oficial e geração de guia de programação no formato padrão **XMLTV (EPG)**.
+Script automatizado em Python para extração da grade de programação completa do canal **TV Latina Sat** diretamente do código-fonte do site oficial e geração de guia de programação no formato padrão **XMLTV (EPG)**.
 
 ## 🚀 Como funciona?
 
