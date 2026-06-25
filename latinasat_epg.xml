@@ -88,9 +88,13 @@
     <title lang="pt">Blossom</title>
     <desc lang="pt">1 episódio</desc>
   </programme>
-  <programme start="20260622192500 -0300" stop="20260622200000 -0300" channel="latinasat.br">
+  <programme start="20260622192500 -0300" stop="20260622194500 -0300" channel="latinasat.br">
     <title lang="pt">De volta aos Anos 70</title>
     <desc lang="pt">2 episódios</desc>
+  </programme>
+  <programme start="20260622194500 -0300" stop="20260622200000 -0300" channel="latinasat.br">
+    <title lang="pt">Latina No Ar</title>
+    <desc lang="pt">AO VIVO</desc>
   </programme>
   <programme start="20260622200000 -0300" stop="20260622210000 -0300" channel="latinasat.br">
     <title lang="pt">Especial</title>
@@ -143,9 +147,13 @@
     <title lang="pt">Blossom</title>
     <desc lang="pt">1 episódio</desc>
   </programme>
-  <programme start="20260623192500 -0300" stop="20260623201000 -0300" channel="latinasat.br">
+  <programme start="20260623192500 -0300" stop="20260623194500 -0300" channel="latinasat.br">
     <title lang="pt">De volta aos Anos 70</title>
     <desc lang="pt">2 episódios</desc>
+  </programme>
+  <programme start="20260623194500 -0300" stop="20260623201000 -0300" channel="latinasat.br">
+    <title lang="pt">Latina No Ar</title>
+    <desc lang="pt">AO VIVO</desc>
   </programme>
   <programme start="20260623201000 -0300" stop="20260623210000 -0300" channel="latinasat.br">
     <title lang="pt">Show do Milhão</title>
@@ -198,9 +206,13 @@
     <title lang="pt">Blossom</title>
     <desc lang="pt">1 episódio</desc>
   </programme>
-  <programme start="20260624192500 -0300" stop="20260624200000 -0300" channel="latinasat.br">
+  <programme start="20260624192500 -0300" stop="20260624194500 -0300" channel="latinasat.br">
     <title lang="pt">De volta aos Anos 70</title>
     <desc lang="pt">2 episódios</desc>
+  </programme>
+  <programme start="20260624194500 -0300" stop="20260624200000 -0300" channel="latinasat.br">
+    <title lang="pt">Latina No Ar</title>
+    <desc lang="pt">AO VIVO</desc>
   </programme>
   <programme start="20260624200000 -0300" stop="20260624210000 -0300" channel="latinasat.br">
     <title lang="pt">Aperta o Play</title>
@@ -254,9 +266,13 @@
     <title lang="pt">Blossom</title>
     <desc lang="pt">1 episódio</desc>
   </programme>
-  <programme start="20260625192500 -0300" stop="20260625201000 -0300" channel="latinasat.br">
+  <programme start="20260625192500 -0300" stop="20260625194500 -0300" channel="latinasat.br">
     <title lang="pt">De volta aos Anos 70</title>
     <desc lang="pt">2 episódios</desc>
+  </programme>
+  <programme start="20260625194500 -0300" stop="20260625201000 -0300" channel="latinasat.br">
+    <title lang="pt">Latina No Ar</title>
+    <desc lang="pt">AO VIVO</desc>
   </programme>
   <programme start="20260625201000 -0300" stop="20260625203000 -0300" channel="latinasat.br">
     <title lang="pt">Hora do Oba</title>
@@ -314,9 +330,13 @@
     <title lang="pt">Blossom</title>
     <desc lang="pt">1 episódio</desc>
   </programme>
-  <programme start="20260626192500 -0300" stop="20260626200000 -0300" channel="latinasat.br">
+  <programme start="20260626192500 -0300" stop="20260626194500 -0300" channel="latinasat.br">
     <title lang="pt">De volta aos Anos 70</title>
     <desc lang="pt">2 episódios</desc>
+  </programme>
+  <programme start="20260626194500 -0300" stop="20260626200000 -0300" channel="latinasat.br">
+    <title lang="pt">Latina No Ar</title>
+    <desc lang="pt">AO VIVO</desc>
   </programme>
   <programme start="20260626200000 -0300" stop="20260626210000 -0300" channel="latinasat.br">
     <title lang="pt">Especial</title>
