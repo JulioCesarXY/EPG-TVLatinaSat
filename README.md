@@ -3,7 +3,7 @@
 </p>
 
 ![Atualizar LatinaSat EPG](https://github.com/JulioCesarXY/EPG-TVLatinaSat/actions/workflows/update_epg.yml/badge.svg)
-<!-- LAST_UPDATE --> 🕒 **Última Atualização:** `01/08/2026 às 03:33 (BRT)`
+<!-- LAST_UPDATE --> 🕒 **Última Atualização:** `02/08/2026 às 03:37 (BRT)`
 
 ---
 Script automatizado em Python para extração da grade de programação completa do canal **TV Latina Sat** diretamente do código-fonte do site oficial e geração de guia de programação no formato padrão **XMLTV (EPG)**.
