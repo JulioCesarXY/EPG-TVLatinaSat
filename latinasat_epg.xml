@@ -12,8 +12,8 @@
     <desc lang="pt">O melhor da rádio na sua TV</desc>
   </programme>
   <programme start="20260802060000 -0300" stop="20260802080000 -0300" channel="latinasat.br">
-    <title lang="pt">Aperta o Play (Reprise)</title>
-    <desc lang="pt">com Di Calheiros</desc>
+    <title lang="pt">Reapresentação</title>
+    <desc lang="pt">Reprise de programas</desc>
   </programme>
   <programme start="20260802080000 -0300" stop="20260802090000 -0300" channel="latinasat.br">
     <title lang="pt">Santa Missa (AO VIVO)</title>
@@ -28,7 +28,7 @@
   </programme>
   <programme start="20260802121500 -0300" stop="20260802153000 -0300" channel="latinasat.br">
     <title lang="pt">Séries Premiadas</title>
-    <desc lang="pt">Punky / Alf / Chris / Chaves</desc>
+    <desc lang="pt">Alf / Chris / Chaves</desc>
   </programme>
   <programme start="20260802153000 -0300" stop="20260802180000 -0300" channel="latinasat.br">
     <title lang="pt">Cine Fun</title>
@@ -70,7 +70,7 @@
   </programme>
   <programme start="20260803121500 -0300" stop="20260803153000 -0300" channel="latinasat.br">
     <title lang="pt">Séries Premiadas</title>
-    <desc lang="pt">Punky / Alf / Chris / Chaves</desc>
+    <desc lang="pt">Alf / Chris / Chaves</desc>
   </programme>
   <programme start="20260803153000 -0300" stop="20260803180000 -0300" channel="latinasat.br">
     <title lang="pt">Cine Fun</title>
@@ -129,7 +129,7 @@
   </programme>
   <programme start="20260804121500 -0300" stop="20260804153000 -0300" channel="latinasat.br">
     <title lang="pt">Séries Premiadas</title>
-    <desc lang="pt">Punky / Alf / Chris / Chaves</desc>
+    <desc lang="pt">Alf / Chris / Chaves</desc>
   </programme>
   <programme start="20260804153000 -0300" stop="20260804180000 -0300" channel="latinasat.br">
     <title lang="pt">Cine Fun</title>
@@ -188,7 +188,7 @@
   </programme>
   <programme start="20260805121500 -0300" stop="20260805153000 -0300" channel="latinasat.br">
     <title lang="pt">Séries Premiadas</title>
-    <desc lang="pt">Punky / Alf / Chris / Chaves</desc>
+    <desc lang="pt">Alf / Chris / Chaves</desc>
   </programme>
   <programme start="20260805153000 -0300" stop="20260805180000 -0300" channel="latinasat.br">
     <title lang="pt">Cine Fun</title>
@@ -216,7 +216,7 @@
   </programme>
   <programme start="20260805200000 -0300" stop="20260805210000 -0300" channel="latinasat.br">
     <title lang="pt">Aperta o Play</title>
-    <desc lang="pt">com Di Calheiros</desc>
+    <desc lang="pt">Os melhores clipes musicais</desc>
   </programme>
   <programme start="20260805210000 -0300" stop="20260805224500 -0300" channel="latinasat.br">
     <title lang="pt">Festival de Filmes</title>
@@ -248,7 +248,7 @@
   </programme>
   <programme start="20260806121500 -0300" stop="20260806153000 -0300" channel="latinasat.br">
     <title lang="pt">Séries Premiadas</title>
-    <desc lang="pt">Punky / Alf / Chris / Chaves</desc>
+    <desc lang="pt">Alf / Chris / Chaves</desc>
   </programme>
   <programme start="20260806153000 -0300" stop="20260806180000 -0300" channel="latinasat.br">
     <title lang="pt">Cine Fun</title>
@@ -312,7 +312,7 @@
   </programme>
   <programme start="20260807121500 -0300" stop="20260807153000 -0300" channel="latinasat.br">
     <title lang="pt">Séries Premiadas</title>
-    <desc lang="pt">Punky / Alf / Chris / Chaves</desc>
+    <desc lang="pt">Alf / Chris / Chaves</desc>
   </programme>
   <programme start="20260807153000 -0300" stop="20260807180000 -0300" channel="latinasat.br">
     <title lang="pt">Cine Fun</title>
@@ -362,8 +362,8 @@
     <desc lang="pt">O melhor da rádio na sua TV</desc>
   </programme>
   <programme start="20260808060000 -0300" stop="20260808080000 -0300" channel="latinasat.br">
-    <title lang="pt">Aperta o Play (Reprise)</title>
-    <desc lang="pt">com Di Calheiros</desc>
+    <title lang="pt">Reapresentação</title>
+    <desc lang="pt">Reprise de programas</desc>
   </programme>
   <programme start="20260808080000 -0300" stop="20260808120000 -0300" channel="latinasat.br">
     <title lang="pt">Latina Kids</title>
@@ -375,7 +375,7 @@
   </programme>
   <programme start="20260808121500 -0300" stop="20260808153000 -0300" channel="latinasat.br">
     <title lang="pt">Séries Premiadas</title>
-    <desc lang="pt">Punky / Alf / Chris / Chaves</desc>
+    <desc lang="pt">Alf / Chris / Chaves</desc>
   </programme>
   <programme start="20260808153000 -0300" stop="20260808180000 -0300" channel="latinasat.br">
     <title lang="pt">Cine Fun</title>
