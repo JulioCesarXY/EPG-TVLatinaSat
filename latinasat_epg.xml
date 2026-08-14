@@ -11,7 +11,10 @@
     <title lang="pt">Programação LatinaSat FM</title>
     <desc lang="pt">O melhor da rádio na sua TV</desc>
   </programme>
-  <programme start="20260809060000 -0300" stop="20260809080000 -0300" channel="latinasat.br">
+  <programme start="20260809060000 -0300" stop="20260809070000 -0300" channel="latinasat.br">
+    <title lang="pt">Budega do Maguila</title>
+  </programme>
+  <programme start="20260809070000 -0300" stop="20260809080000 -0300" channel="latinasat.br">
     <title lang="pt">Reapresentação</title>
     <desc lang="pt">Reprise de programas</desc>
   </programme>
@@ -361,7 +364,10 @@
     <title lang="pt">Programação LatinaSat FM</title>
     <desc lang="pt">O melhor da rádio na sua TV</desc>
   </programme>
-  <programme start="20260815060000 -0300" stop="20260815080000 -0300" channel="latinasat.br">
+  <programme start="20260815060000 -0300" stop="20260815070000 -0300" channel="latinasat.br">
+    <title lang="pt">Budega do Maguila</title>
+  </programme>
+  <programme start="20260815070000 -0300" stop="20260815080000 -0300" channel="latinasat.br">
     <title lang="pt">Reapresentação</title>
     <desc lang="pt">Reprise de programas</desc>
   </programme>
