@@ -42,7 +42,7 @@
     <desc lang="pt">Maratona amarela</desc>
   </programme>
   <programme start="20260913200000 -0300" stop="20260913210000 -0300" channel="latinasat.br">
-    <title lang="pt">Canal Jonn na Latinasat</title>
+    <title lang="pt">Mundo Jonn</title>
   </programme>
   <programme start="20260913210000 -0300" stop="20260913220000 -0300" channel="latinasat.br">
     <title lang="pt">EgoTime</title>
@@ -55,11 +55,14 @@
     <title lang="pt">Boletim Latina Brasil</title>
     <desc lang="pt">As principais notícias do dia</desc>
   </programme>
-  <programme start="20260914000500 -0300" stop="20260914011500 -0300" channel="latinasat.br">
+  <programme start="20260914000500 -0300" stop="20260914010000 -0300" channel="latinasat.br">
     <title lang="pt">South Park</title>
     <desc lang="pt">Humor politicamente incorreto</desc>
   </programme>
-  <programme start="20260914011500 -0300" stop="20260914060000 -0300" channel="latinasat.br">
+  <programme start="20260914010000 -0300" stop="20260914020000 -0300" channel="latinasat.br">
+    <title lang="pt">O.C - Um Estranho No Paraíso</title>
+  </programme>
+  <programme start="20260914020000 -0300" stop="20260914060000 -0300" channel="latinasat.br">
     <title lang="pt">Programação LatinaSat FM</title>
     <desc lang="pt">O melhor da rádio na sua TV</desc>
   </programme>
@@ -79,20 +82,20 @@
     <title lang="pt">Cine Fun</title>
     <desc lang="pt">Filmes para a família</desc>
   </programme>
-  <programme start="20260914180000 -0300" stop="20260914181500 -0300" channel="latinasat.br">
+  <programme start="20260914180000 -0300" stop="20260914180500 -0300" channel="latinasat.br">
     <title lang="pt">Boletim Latina Brasil</title>
     <desc lang="pt">As principais notícias do dia</desc>
   </programme>
-  <programme start="20260914181500 -0300" stop="20260914183000 -0300" channel="latinasat.br">
+  <programme start="20260914180500 -0300" stop="20260914183000 -0300" channel="latinasat.br">
     <title lang="pt">Anos Incríveis</title>
     <desc lang="pt">1 episódio</desc>
   </programme>
-  <programme start="20260914183000 -0300" stop="20260914192500 -0300" channel="latinasat.br">
-    <title lang="pt">O.C - Um Estranho No Paraíso</title>
-  </programme>
-  <programme start="20260914192500 -0300" stop="20260914194500 -0300" channel="latinasat.br">
+  <programme start="20260914183000 -0300" stop="20260914190000 -0300" channel="latinasat.br">
     <title lang="pt">De volta aos Anos 70</title>
     <desc lang="pt">2 episódios</desc>
+  </programme>
+  <programme start="20260914190000 -0300" stop="20260914194500 -0300" channel="latinasat.br">
+    <title lang="pt">Novela: A Cor da Paixão</title>
   </programme>
   <programme start="20260914194500 -0300" stop="20260914200000 -0300" channel="latinasat.br">
     <title lang="pt">Latina No Ar</title>
@@ -113,11 +116,14 @@
     <title lang="pt">Boletim Latina Brasil</title>
     <desc lang="pt">As principais notícias do dia</desc>
   </programme>
-  <programme start="20260915000500 -0300" stop="20260915011500 -0300" channel="latinasat.br">
+  <programme start="20260915000500 -0300" stop="20260915010000 -0300" channel="latinasat.br">
     <title lang="pt">South Park</title>
     <desc lang="pt">Humor politicamente incorreto</desc>
   </programme>
-  <programme start="20260915011500 -0300" stop="20260915060000 -0300" channel="latinasat.br">
+  <programme start="20260915010000 -0300" stop="20260915020000 -0300" channel="latinasat.br">
+    <title lang="pt">O.C - Um Estranho No Paraíso</title>
+  </programme>
+  <programme start="20260915020000 -0300" stop="20260915060000 -0300" channel="latinasat.br">
     <title lang="pt">Programação LatinaSat FM</title>
     <desc lang="pt">O melhor da rádio na sua TV</desc>
   </programme>
@@ -137,20 +143,20 @@
     <title lang="pt">Cine Fun</title>
     <desc lang="pt">Filmes para a família</desc>
   </programme>
-  <programme start="20260915180000 -0300" stop="20260915181500 -0300" channel="latinasat.br">
+  <programme start="20260915180000 -0300" stop="20260915180500 -0300" channel="latinasat.br">
     <title lang="pt">Boletim Latina Brasil</title>
     <desc lang="pt">As principais notícias do dia</desc>
   </programme>
-  <programme start="20260915181500 -0300" stop="20260915183000 -0300" channel="latinasat.br">
+  <programme start="20260915180500 -0300" stop="20260915183000 -0300" channel="latinasat.br">
     <title lang="pt">Anos Incríveis</title>
     <desc lang="pt">1 episódio</desc>
   </programme>
-  <programme start="20260915183000 -0300" stop="20260915192500 -0300" channel="latinasat.br">
-    <title lang="pt">O.C - Um Estranho No Paraíso</title>
-  </programme>
-  <programme start="20260915192500 -0300" stop="20260915194500 -0300" channel="latinasat.br">
+  <programme start="20260915183000 -0300" stop="20260915190000 -0300" channel="latinasat.br">
     <title lang="pt">De volta aos Anos 70</title>
     <desc lang="pt">2 episódios</desc>
+  </programme>
+  <programme start="20260915190000 -0300" stop="20260915194500 -0300" channel="latinasat.br">
+    <title lang="pt">Novela: A Cor da Paixão</title>
   </programme>
   <programme start="20260915194500 -0300" stop="20260915201000 -0300" channel="latinasat.br">
     <title lang="pt">Latina No Ar</title>
@@ -171,11 +177,14 @@
     <title lang="pt">Boletim Latina Brasil</title>
     <desc lang="pt">As principais notícias do dia</desc>
   </programme>
-  <programme start="20260916000500 -0300" stop="20260916011500 -0300" channel="latinasat.br">
+  <programme start="20260916000500 -0300" stop="20260916010000 -0300" channel="latinasat.br">
     <title lang="pt">South Park</title>
     <desc lang="pt">Humor politicamente incorreto</desc>
   </programme>
-  <programme start="20260916011500 -0300" stop="20260916060000 -0300" channel="latinasat.br">
+  <programme start="20260916010000 -0300" stop="20260916020000 -0300" channel="latinasat.br">
+    <title lang="pt">O.C - Um Estranho No Paraíso</title>
+  </programme>
+  <programme start="20260916020000 -0300" stop="20260916060000 -0300" channel="latinasat.br">
     <title lang="pt">Programação LatinaSat FM</title>
     <desc lang="pt">O melhor da rádio na sua TV</desc>
   </programme>
@@ -195,20 +204,20 @@
     <title lang="pt">Cine Fun</title>
     <desc lang="pt">Filmes para a família</desc>
   </programme>
-  <programme start="20260916180000 -0300" stop="20260916181500 -0300" channel="latinasat.br">
+  <programme start="20260916180000 -0300" stop="20260916180500 -0300" channel="latinasat.br">
     <title lang="pt">Boletim Latina Brasil</title>
     <desc lang="pt">As principais notícias do dia</desc>
   </programme>
-  <programme start="20260916181500 -0300" stop="20260916183000 -0300" channel="latinasat.br">
+  <programme start="20260916180500 -0300" stop="20260916183000 -0300" channel="latinasat.br">
     <title lang="pt">Anos Incríveis</title>
     <desc lang="pt">1 episódio</desc>
   </programme>
-  <programme start="20260916183000 -0300" stop="20260916192500 -0300" channel="latinasat.br">
-    <title lang="pt">O.C - Um Estranho No Paraíso</title>
-  </programme>
-  <programme start="20260916192500 -0300" stop="20260916194500 -0300" channel="latinasat.br">
+  <programme start="20260916183000 -0300" stop="20260916190000 -0300" channel="latinasat.br">
     <title lang="pt">De volta aos Anos 70</title>
     <desc lang="pt">2 episódios</desc>
+  </programme>
+  <programme start="20260916190000 -0300" stop="20260916194500 -0300" channel="latinasat.br">
+    <title lang="pt">Novela: A Cor da Paixão</title>
   </programme>
   <programme start="20260916194500 -0300" stop="20260916200000 -0300" channel="latinasat.br">
     <title lang="pt">Latina No Ar</title>
@@ -230,11 +239,14 @@
     <title lang="pt">Boletim Latina Brasil</title>
     <desc lang="pt">As principais notícias do dia</desc>
   </programme>
-  <programme start="20260917000500 -0300" stop="20260917011500 -0300" channel="latinasat.br">
+  <programme start="20260917000500 -0300" stop="20260917010000 -0300" channel="latinasat.br">
     <title lang="pt">South Park</title>
     <desc lang="pt">Humor politicamente incorreto</desc>
   </programme>
-  <programme start="20260917011500 -0300" stop="20260917060000 -0300" channel="latinasat.br">
+  <programme start="20260917010000 -0300" stop="20260917020000 -0300" channel="latinasat.br">
+    <title lang="pt">O.C - Um Estranho No Paraíso</title>
+  </programme>
+  <programme start="20260917020000 -0300" stop="20260917060000 -0300" channel="latinasat.br">
     <title lang="pt">Programação LatinaSat FM</title>
     <desc lang="pt">O melhor da rádio na sua TV</desc>
   </programme>
@@ -254,20 +266,20 @@
     <title lang="pt">Cine Fun</title>
     <desc lang="pt">Filmes para a família</desc>
   </programme>
-  <programme start="20260917180000 -0300" stop="20260917181500 -0300" channel="latinasat.br">
+  <programme start="20260917180000 -0300" stop="20260917180500 -0300" channel="latinasat.br">
     <title lang="pt">Boletim Latina Brasil</title>
     <desc lang="pt">As principais notícias do dia</desc>
   </programme>
-  <programme start="20260917181500 -0300" stop="20260917183000 -0300" channel="latinasat.br">
+  <programme start="20260917180500 -0300" stop="20260917183000 -0300" channel="latinasat.br">
     <title lang="pt">Anos Incríveis</title>
     <desc lang="pt">1 episódio</desc>
   </programme>
-  <programme start="20260917183000 -0300" stop="20260917192500 -0300" channel="latinasat.br">
-    <title lang="pt">O.C - Um Estranho No Paraíso</title>
-  </programme>
-  <programme start="20260917192500 -0300" stop="20260917194500 -0300" channel="latinasat.br">
+  <programme start="20260917183000 -0300" stop="20260917190000 -0300" channel="latinasat.br">
     <title lang="pt">De volta aos Anos 70</title>
     <desc lang="pt">2 episódios</desc>
+  </programme>
+  <programme start="20260917190000 -0300" stop="20260917194500 -0300" channel="latinasat.br">
+    <title lang="pt">Novela: A Cor da Paixão</title>
   </programme>
   <programme start="20260917194500 -0300" stop="20260917201000 -0300" channel="latinasat.br">
     <title lang="pt">Latina No Ar</title>
@@ -293,11 +305,14 @@
     <title lang="pt">Boletim Latina Brasil</title>
     <desc lang="pt">As principais notícias do dia</desc>
   </programme>
-  <programme start="20260918000500 -0300" stop="20260918011500 -0300" channel="latinasat.br">
+  <programme start="20260918000500 -0300" stop="20260918010000 -0300" channel="latinasat.br">
     <title lang="pt">South Park</title>
     <desc lang="pt">Humor politicamente incorreto</desc>
   </programme>
-  <programme start="20260918011500 -0300" stop="20260918060000 -0300" channel="latinasat.br">
+  <programme start="20260918010000 -0300" stop="20260918020000 -0300" channel="latinasat.br">
+    <title lang="pt">O.C - Um Estranho No Paraíso</title>
+  </programme>
+  <programme start="20260918020000 -0300" stop="20260918060000 -0300" channel="latinasat.br">
     <title lang="pt">Programação LatinaSat FM</title>
     <desc lang="pt">O melhor da rádio na sua TV</desc>
   </programme>
@@ -317,20 +332,20 @@
     <title lang="pt">Cine Fun</title>
     <desc lang="pt">Filmes para a família</desc>
   </programme>
-  <programme start="20260918180000 -0300" stop="20260918181500 -0300" channel="latinasat.br">
+  <programme start="20260918180000 -0300" stop="20260918180500 -0300" channel="latinasat.br">
     <title lang="pt">Boletim Latina Brasil</title>
     <desc lang="pt">As principais notícias do dia</desc>
   </programme>
-  <programme start="20260918181500 -0300" stop="20260918183000 -0300" channel="latinasat.br">
+  <programme start="20260918180500 -0300" stop="20260918183000 -0300" channel="latinasat.br">
     <title lang="pt">Anos Incríveis</title>
     <desc lang="pt">1 episódio</desc>
   </programme>
-  <programme start="20260918183000 -0300" stop="20260918192500 -0300" channel="latinasat.br">
-    <title lang="pt">O.C - Um Estranho No Paraíso</title>
-  </programme>
-  <programme start="20260918192500 -0300" stop="20260918194500 -0300" channel="latinasat.br">
+  <programme start="20260918183000 -0300" stop="20260918190000 -0300" channel="latinasat.br">
     <title lang="pt">De volta aos Anos 70</title>
     <desc lang="pt">2 episódios</desc>
+  </programme>
+  <programme start="20260918190000 -0300" stop="20260918194500 -0300" channel="latinasat.br">
+    <title lang="pt">Novela: A Cor da Paixão</title>
   </programme>
   <programme start="20260918194500 -0300" stop="20260918200000 -0300" channel="latinasat.br">
     <title lang="pt">Latina No Ar</title>
@@ -387,7 +402,7 @@
     <desc lang="pt">Maratona amarela</desc>
   </programme>
   <programme start="20260919200000 -0300" stop="20260919210000 -0300" channel="latinasat.br">
-    <title lang="pt">Canal Jonn na Latinasat</title>
+    <title lang="pt">Mundo Jonn</title>
   </programme>
   <programme start="20260919210000 -0300" stop="20260919220000 -0300" channel="latinasat.br">
     <title lang="pt">EgoTime</title>
