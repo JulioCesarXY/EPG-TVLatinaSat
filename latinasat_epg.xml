@@ -19,7 +19,7 @@
     <desc lang="pt">Reprise de programas</desc>
   </programme>
   <programme start="20261025080000 -0300" stop="20261025090000 -0300" channel="latinasat.br">
-    <title lang="pt">Santa Missa (AO VIVO)</title>
+    <title lang="pt">Santa Missa (Ao Vivo)</title>
   </programme>
   <programme start="20261025090000 -0300" stop="20261025120000 -0300" channel="latinasat.br">
     <title lang="pt">Latina Kids</title>
@@ -98,7 +98,7 @@
     <title lang="pt">Novela: A Cor da Paixão</title>
   </programme>
   <programme start="20261026194500 -0300" stop="20261026200000 -0300" channel="latinasat.br">
-    <title lang="pt">Latina No Ar</title>
+    <title lang="pt">Latina no Ar</title>
     <desc lang="pt">Os vídeos mais curiosos do Instagram</desc>
   </programme>
   <programme start="20261026200000 -0300" stop="20261026210000 -0300" channel="latinasat.br">
@@ -158,12 +158,13 @@
   <programme start="20261027190000 -0300" stop="20261027194500 -0300" channel="latinasat.br">
     <title lang="pt">Novela: A Cor da Paixão</title>
   </programme>
-  <programme start="20261027194500 -0300" stop="20261027201000 -0300" channel="latinasat.br">
-    <title lang="pt">Latina No Ar</title>
+  <programme start="20261027194500 -0300" stop="20261027201500 -0300" channel="latinasat.br">
+    <title lang="pt">Latina no Ar</title>
     <desc lang="pt">Os vídeos mais curiosos do Instagram</desc>
   </programme>
-  <programme start="20261027201000 -0300" stop="20261027210000 -0300" channel="latinasat.br">
-    <title lang="pt">Show do Milhão</title>
+  <programme start="20261027201500 -0300" stop="20261027210000 -0300" channel="latinasat.br">
+    <title lang="pt">Show do Presley (Ao Vivo)</title>
+    <desc lang="pt">com William Presley</desc>
   </programme>
   <programme start="20261027210000 -0300" stop="20261027224500 -0300" channel="latinasat.br">
     <title lang="pt">Festival de Filmes</title>
@@ -220,7 +221,7 @@
     <title lang="pt">Novela: A Cor da Paixão</title>
   </programme>
   <programme start="20261028194500 -0300" stop="20261028200000 -0300" channel="latinasat.br">
-    <title lang="pt">Latina No Ar</title>
+    <title lang="pt">Latina no Ar</title>
     <desc lang="pt">Os vídeos mais curiosos do Instagram</desc>
   </programme>
   <programme start="20261028200000 -0300" stop="20261028210000 -0300" channel="latinasat.br">
@@ -282,7 +283,7 @@
     <title lang="pt">Novela: A Cor da Paixão</title>
   </programme>
   <programme start="20261029194500 -0300" stop="20261029201000 -0300" channel="latinasat.br">
-    <title lang="pt">Latina No Ar</title>
+    <title lang="pt">Latina no Ar</title>
     <desc lang="pt">Os vídeos mais curiosos do Instagram</desc>
   </programme>
   <programme start="20261029201000 -0300" stop="20261029203000 -0300" channel="latinasat.br">
@@ -348,7 +349,7 @@
     <title lang="pt">Novela: A Cor da Paixão</title>
   </programme>
   <programme start="20261030194500 -0300" stop="20261030200000 -0300" channel="latinasat.br">
-    <title lang="pt">Latina No Ar</title>
+    <title lang="pt">Latina no Ar</title>
     <desc lang="pt">Os vídeos mais curiosos do Instagram</desc>
   </programme>
   <programme start="20261030200000 -0300" stop="20261030210000 -0300" channel="latinasat.br">
