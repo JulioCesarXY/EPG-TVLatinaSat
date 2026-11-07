@@ -348,68 +348,17 @@
   <programme start="20261106190000 -0300" stop="20261106194500 -0300" channel="latinasat.br">
     <title lang="pt">Novela: A Cor da Paixão</title>
   </programme>
-  <programme start="20261106194500 -0300" stop="20261106200000 -0300" channel="latinasat.br">
+  <programme start="20261106194500 -0300" stop="20261106201000 -0300" channel="latinasat.br">
     <title lang="pt">Latina no Ar</title>
     <desc lang="pt">Os vídeos mais curiosos do Instagram</desc>
   </programme>
-  <programme start="20261106200000 -0300" stop="20261106210000 -0300" channel="latinasat.br">
-    <title lang="pt">Especial</title>
+  <programme start="20261106201000 -0300" stop="20261106223000 -0300" channel="latinasat.br">
+    <title lang="pt">Aquecimento Teleton (Ao Vivo)</title>
   </programme>
-  <programme start="20261106210000 -0300" stop="20261106224500 -0300" channel="latinasat.br">
-    <title lang="pt">Festival de Filmes</title>
-    <desc lang="pt">Os campeões de bilheteria</desc>
+  <programme start="20261106223000 -0300" stop="20261107000000 -0300" channel="latinasat.br">
+    <title lang="pt">Teleton 2026 (Ao Vivo)</title>
   </programme>
-  <programme start="20261106224500 -0300" stop="20261107000000 -0300" channel="latinasat.br">
-    <title lang="pt">Clube das Séries</title>
-    <desc lang="pt">Os Simpsons/Dois Homens e Meio/2 Broke Girls</desc>
-  </programme>
-  <programme start="20261107000000 -0300" stop="20261107000500 -0300" channel="latinasat.br">
-    <title lang="pt">Boletim Latina Brasil</title>
-    <desc lang="pt">As principais notícias do dia</desc>
-  </programme>
-  <programme start="20261107000500 -0300" stop="20261107011500 -0300" channel="latinasat.br">
-    <title lang="pt">South Park</title>
-    <desc lang="pt">Humor politicamente incorreto</desc>
-  </programme>
-  <programme start="20261107011500 -0300" stop="20261107060000 -0300" channel="latinasat.br">
-    <title lang="pt">Programação Latinasat FM</title>
-    <desc lang="pt">O melhor da rádio na sua TV</desc>
-  </programme>
-  <programme start="20261107060000 -0300" stop="20261107070000 -0300" channel="latinasat.br">
-    <title lang="pt">Budega do Maguila</title>
-  </programme>
-  <programme start="20261107070000 -0300" stop="20261107080000 -0300" channel="latinasat.br">
-    <title lang="pt">Reapresentação</title>
-    <desc lang="pt">Reprise de programas</desc>
-  </programme>
-  <programme start="20261107080000 -0300" stop="20261107120000 -0300" channel="latinasat.br">
-    <title lang="pt">Latina Kids</title>
-    <desc lang="pt">Desenhos clássicos</desc>
-  </programme>
-  <programme start="20261107120000 -0300" stop="20261107121500 -0300" channel="latinasat.br">
-    <title lang="pt">Boletim Latina Brasil</title>
-    <desc lang="pt">As principais notícias do dia</desc>
-  </programme>
-  <programme start="20261107121500 -0300" stop="20261107153000 -0300" channel="latinasat.br">
-    <title lang="pt">Séries Premiadas</title>
-    <desc lang="pt">Clube do Terror / Três é Demais / Chris / Chaves</desc>
-  </programme>
-  <programme start="20261107153000 -0300" stop="20261107180000 -0300" channel="latinasat.br">
-    <title lang="pt">Cine Fun</title>
-    <desc lang="pt">Filmes para a família</desc>
-  </programme>
-  <programme start="20261107180000 -0300" stop="20261107200000 -0300" channel="latinasat.br">
-    <title lang="pt">Os Simpsons</title>
-    <desc lang="pt">Maratona amarela</desc>
-  </programme>
-  <programme start="20261107200000 -0300" stop="20261107210000 -0300" channel="latinasat.br">
-    <title lang="pt">Mundo Jonn</title>
-  </programme>
-  <programme start="20261107210000 -0300" stop="20261107220000 -0300" channel="latinasat.br">
-    <title lang="pt">EgoTime</title>
-  </programme>
-  <programme start="20261107220000 -0300" stop="20261108000000 -0300" channel="latinasat.br">
-    <title lang="pt">Festival de Filmes</title>
-    <desc lang="pt">Os campeões de bilheteria</desc>
+  <programme start="20261107000000 -0300" stop="20261108000000 -0300" channel="latinasat.br">
+    <title lang="pt">Teleton 2026 (Ao Vivo)</title>
   </programme>
 </tv>
