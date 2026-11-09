@@ -3,11 +3,11 @@
   <channel id="latinasat.br">
     <display-name>Latina Sat Brasil</display-name>
   </channel>
-  <programme start="20261108000000 -0300" stop="20261108023000 -0300" channel="latinasat.br">
-    <title lang="pt">Os Simpsons</title>
-    <desc lang="pt">Maratona amarela</desc>
+  <programme start="20261108000000 -0300" stop="20261108011500 -0300" channel="latinasat.br">
+    <title lang="pt">South Park</title>
+    <desc lang="pt">Humor politicamente incorreto</desc>
   </programme>
-  <programme start="20261108023000 -0300" stop="20261108060000 -0300" channel="latinasat.br">
+  <programme start="20261108011500 -0300" stop="20261108060000 -0300" channel="latinasat.br">
     <title lang="pt">Programação Latinasat FM</title>
     <desc lang="pt">O melhor da rádio na sua TV</desc>
   </programme>
@@ -348,17 +348,68 @@
   <programme start="20261113190000 -0300" stop="20261113194500 -0300" channel="latinasat.br">
     <title lang="pt">Novela: A Cor da Paixão</title>
   </programme>
-  <programme start="20261113194500 -0300" stop="20261113201000 -0300" channel="latinasat.br">
+  <programme start="20261113194500 -0300" stop="20261113200000 -0300" channel="latinasat.br">
     <title lang="pt">Latina no Ar</title>
     <desc lang="pt">Os vídeos mais curiosos do Instagram</desc>
   </programme>
-  <programme start="20261113201000 -0300" stop="20261113223000 -0300" channel="latinasat.br">
-    <title lang="pt">Aquecimento Teleton (Ao Vivo)</title>
+  <programme start="20261113200000 -0300" stop="20261113210000 -0300" channel="latinasat.br">
+    <title lang="pt">Especial</title>
   </programme>
-  <programme start="20261113223000 -0300" stop="20261114000000 -0300" channel="latinasat.br">
-    <title lang="pt">Teleton 2026 (Ao Vivo)</title>
+  <programme start="20261113210000 -0300" stop="20261113224500 -0300" channel="latinasat.br">
+    <title lang="pt">Festival de Filmes</title>
+    <desc lang="pt">Os campeões de bilheteria</desc>
   </programme>
-  <programme start="20261114000000 -0300" stop="20261115000000 -0300" channel="latinasat.br">
-    <title lang="pt">Teleton 2026 (Ao Vivo)</title>
+  <programme start="20261113224500 -0300" stop="20261114000000 -0300" channel="latinasat.br">
+    <title lang="pt">Clube das Séries</title>
+    <desc lang="pt">Os Simpsons/Dois Homens e Meio/2 Broke Girls</desc>
+  </programme>
+  <programme start="20261114000000 -0300" stop="20261114000500 -0300" channel="latinasat.br">
+    <title lang="pt">Boletim Latina Brasil</title>
+    <desc lang="pt">As principais notícias do dia</desc>
+  </programme>
+  <programme start="20261114000500 -0300" stop="20261114011500 -0300" channel="latinasat.br">
+    <title lang="pt">South Park</title>
+    <desc lang="pt">Humor politicamente incorreto</desc>
+  </programme>
+  <programme start="20261114011500 -0300" stop="20261114060000 -0300" channel="latinasat.br">
+    <title lang="pt">Programação Latinasat FM</title>
+    <desc lang="pt">O melhor da rádio na sua TV</desc>
+  </programme>
+  <programme start="20261114060000 -0300" stop="20261114070000 -0300" channel="latinasat.br">
+    <title lang="pt">Budega do Maguila</title>
+  </programme>
+  <programme start="20261114070000 -0300" stop="20261114080000 -0300" channel="latinasat.br">
+    <title lang="pt">Reapresentação</title>
+    <desc lang="pt">Reprise de programas</desc>
+  </programme>
+  <programme start="20261114080000 -0300" stop="20261114120000 -0300" channel="latinasat.br">
+    <title lang="pt">Latina Kids</title>
+    <desc lang="pt">Desenhos clássicos</desc>
+  </programme>
+  <programme start="20261114120000 -0300" stop="20261114121500 -0300" channel="latinasat.br">
+    <title lang="pt">Boletim Latina Brasil</title>
+    <desc lang="pt">As principais notícias do dia</desc>
+  </programme>
+  <programme start="20261114121500 -0300" stop="20261114153000 -0300" channel="latinasat.br">
+    <title lang="pt">Séries Premiadas</title>
+    <desc lang="pt">Clube do Terror / Três é Demais / Chris / Chaves</desc>
+  </programme>
+  <programme start="20261114153000 -0300" stop="20261114180000 -0300" channel="latinasat.br">
+    <title lang="pt">Cine Fun</title>
+    <desc lang="pt">Filmes para a família</desc>
+  </programme>
+  <programme start="20261114180000 -0300" stop="20261114200000 -0300" channel="latinasat.br">
+    <title lang="pt">Os Simpsons</title>
+    <desc lang="pt">Maratona amarela</desc>
+  </programme>
+  <programme start="20261114200000 -0300" stop="20261114210000 -0300" channel="latinasat.br">
+    <title lang="pt">Mundo Jonn</title>
+  </programme>
+  <programme start="20261114210000 -0300" stop="20261114220000 -0300" channel="latinasat.br">
+    <title lang="pt">EgoTime</title>
+  </programme>
+  <programme start="20261114220000 -0300" stop="20261115000000 -0300" channel="latinasat.br">
+    <title lang="pt">Festival de Filmes</title>
+    <desc lang="pt">Os campeões de bilheteria</desc>
   </programme>
 </tv>
