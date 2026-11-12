@@ -86,12 +86,8 @@
     <title lang="pt">Boletim Latina Brasil</title>
     <desc lang="pt">As principais notícias do dia</desc>
   </programme>
-  <programme start="20261109180500 -0300" stop="20261109183000 -0300" channel="latinasat.br">
-    <title lang="pt">Anos Incríveis</title>
-    <desc lang="pt">1 episódio</desc>
-  </programme>
-  <programme start="20261109183000 -0300" stop="20261109190000 -0300" channel="latinasat.br">
-    <title lang="pt">De volta aos Anos 70</title>
+  <programme start="20261109180500 -0300" stop="20261109190000 -0300" channel="latinasat.br">
+    <title lang="pt">Família Dinossauros</title>
     <desc lang="pt">2 episódios</desc>
   </programme>
   <programme start="20261109190000 -0300" stop="20261109194500 -0300" channel="latinasat.br">
@@ -147,12 +143,8 @@
     <title lang="pt">Boletim Latina Brasil</title>
     <desc lang="pt">As principais notícias do dia</desc>
   </programme>
-  <programme start="20261110180500 -0300" stop="20261110183000 -0300" channel="latinasat.br">
-    <title lang="pt">Anos Incríveis</title>
-    <desc lang="pt">1 episódio</desc>
-  </programme>
-  <programme start="20261110183000 -0300" stop="20261110190000 -0300" channel="latinasat.br">
-    <title lang="pt">De volta aos Anos 70</title>
+  <programme start="20261110180500 -0300" stop="20261110190000 -0300" channel="latinasat.br">
+    <title lang="pt">Família Dinossauros</title>
     <desc lang="pt">2 episódios</desc>
   </programme>
   <programme start="20261110190000 -0300" stop="20261110194500 -0300" channel="latinasat.br">
@@ -209,12 +201,8 @@
     <title lang="pt">Boletim Latina Brasil</title>
     <desc lang="pt">As principais notícias do dia</desc>
   </programme>
-  <programme start="20261111180500 -0300" stop="20261111183000 -0300" channel="latinasat.br">
-    <title lang="pt">Anos Incríveis</title>
-    <desc lang="pt">1 episódio</desc>
-  </programme>
-  <programme start="20261111183000 -0300" stop="20261111190000 -0300" channel="latinasat.br">
-    <title lang="pt">De volta aos Anos 70</title>
+  <programme start="20261111180500 -0300" stop="20261111190000 -0300" channel="latinasat.br">
+    <title lang="pt">Família Dinossauros</title>
     <desc lang="pt">2 episódios</desc>
   </programme>
   <programme start="20261111190000 -0300" stop="20261111194500 -0300" channel="latinasat.br">
@@ -244,12 +232,12 @@
     <title lang="pt">South Park</title>
     <desc lang="pt">Humor politicamente incorreto</desc>
   </programme>
-  <programme start="20261112010000 -0300" stop="20261112020000 -0300" channel="latinasat.br">
+  <programme start="20261112010000 -0300" stop="20261112014500 -0300" channel="latinasat.br">
     <title lang="pt">O.C - Um Estranho No Paraíso</title>
   </programme>
-  <programme start="20261112020000 -0300" stop="20261112060000 -0300" channel="latinasat.br">
-    <title lang="pt">Programação Latinasat FM</title>
-    <desc lang="pt">O melhor da rádio na sua TV</desc>
+  <programme start="20261112014500 -0300" stop="20261112060000 -0300" channel="latinasat.br">
+    <title lang="pt">Madrugada Latina</title>
+    <desc lang="pt">Os melhores filmes e séries</desc>
   </programme>
   <programme start="20261112060000 -0300" stop="20261112120000 -0300" channel="latinasat.br">
     <title lang="pt">Latina Kids</title>
@@ -271,12 +259,8 @@
     <title lang="pt">Boletim Latina Brasil</title>
     <desc lang="pt">As principais notícias do dia</desc>
   </programme>
-  <programme start="20261112180500 -0300" stop="20261112183000 -0300" channel="latinasat.br">
-    <title lang="pt">Anos Incríveis</title>
-    <desc lang="pt">1 episódio</desc>
-  </programme>
-  <programme start="20261112183000 -0300" stop="20261112190000 -0300" channel="latinasat.br">
-    <title lang="pt">De volta aos Anos 70</title>
+  <programme start="20261112180500 -0300" stop="20261112190000 -0300" channel="latinasat.br">
+    <title lang="pt">Família Dinossauros</title>
     <desc lang="pt">2 episódios</desc>
   </programme>
   <programme start="20261112190000 -0300" stop="20261112194500 -0300" channel="latinasat.br">
@@ -337,13 +321,8 @@
     <title lang="pt">Boletim Latina Brasil</title>
     <desc lang="pt">As principais notícias do dia</desc>
   </programme>
-  <programme start="20261113180500 -0300" stop="20261113183000 -0300" channel="latinasat.br">
-    <title lang="pt">Anos Incríveis</title>
-    <desc lang="pt">1 episódio</desc>
-  </programme>
-  <programme start="20261113183000 -0300" stop="20261113190000 -0300" channel="latinasat.br">
-    <title lang="pt">De volta aos Anos 70</title>
-    <desc lang="pt">2 episódios</desc>
+  <programme start="20261113180500 -0300" stop="20261113190000 -0300" channel="latinasat.br">
+    <title lang="pt">Disney Club</title>
   </programme>
   <programme start="20261113190000 -0300" stop="20261113194500 -0300" channel="latinasat.br">
     <title lang="pt">Novela: A Cor da Paixão</title>
