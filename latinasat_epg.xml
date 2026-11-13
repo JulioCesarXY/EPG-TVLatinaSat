@@ -294,12 +294,12 @@
     <title lang="pt">South Park</title>
     <desc lang="pt">Humor politicamente incorreto</desc>
   </programme>
-  <programme start="20261113010000 -0300" stop="20261113020000 -0300" channel="latinasat.br">
+  <programme start="20261113010000 -0300" stop="20261113014500 -0300" channel="latinasat.br">
     <title lang="pt">O.C - Um Estranho No Paraíso</title>
   </programme>
-  <programme start="20261113020000 -0300" stop="20261113060000 -0300" channel="latinasat.br">
-    <title lang="pt">Programação Latinasat FM</title>
-    <desc lang="pt">O melhor da rádio na sua TV</desc>
+  <programme start="20261113014500 -0300" stop="20261113060000 -0300" channel="latinasat.br">
+    <title lang="pt">Madrugada Latina</title>
+    <desc lang="pt">Os melhores filmes e séries</desc>
   </programme>
   <programme start="20261113060000 -0300" stop="20261113120000 -0300" channel="latinasat.br">
     <title lang="pt">Latina Kids</title>
