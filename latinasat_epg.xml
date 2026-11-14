@@ -346,11 +346,17 @@
     <title lang="pt">Boletim Latina Brasil</title>
     <desc lang="pt">As principais notícias do dia</desc>
   </programme>
-  <programme start="20261114000500 -0300" stop="20261114011500 -0300" channel="latinasat.br">
+  <programme start="20261114000500 -0300" stop="20261114010000 -0300" channel="latinasat.br">
     <title lang="pt">South Park</title>
     <desc lang="pt">Humor politicamente incorreto</desc>
   </programme>
-  <programme start="20261114011500 -0300" stop="20261114060000 -0300" channel="latinasat.br">
+  <programme start="20261114010000 -0300" stop="20261114014000 -0300" channel="latinasat.br">
+    <title lang="pt">O.C - Um Estranho No Paraíso</title>
+  </programme>
+  <programme start="20261114014000 -0300" stop="20261114020000 -0300" channel="latinasat.br">
+    <title lang="pt">Mr. Bean</title>
+  </programme>
+  <programme start="20261114020000 -0300" stop="20261114060000 -0300" channel="latinasat.br">
     <title lang="pt">Programação Latinasat FM</title>
     <desc lang="pt">O melhor da rádio na sua TV</desc>
   </programme>
