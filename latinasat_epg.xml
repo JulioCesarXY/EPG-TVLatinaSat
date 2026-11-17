@@ -116,8 +116,11 @@
     <title lang="pt">South Park</title>
     <desc lang="pt">Humor politicamente incorreto</desc>
   </programme>
-  <programme start="20261117010000 -0300" stop="20261117020000 -0300" channel="latinasat.br">
+  <programme start="20261117010000 -0300" stop="20261117014000 -0300" channel="latinasat.br">
     <title lang="pt">O.C - Um Estranho No Paraíso</title>
+  </programme>
+  <programme start="20261117014000 -0300" stop="20261117020000 -0300" channel="latinasat.br">
+    <title lang="pt">Mr. Bean</title>
   </programme>
   <programme start="20261117020000 -0300" stop="20261117060000 -0300" channel="latinasat.br">
     <title lang="pt">Programação Latinasat FM</title>
@@ -155,7 +158,7 @@
     <desc lang="pt">Os vídeos mais curiosos do Instagram</desc>
   </programme>
   <programme start="20261117201500 -0300" stop="20261117210000 -0300" channel="latinasat.br">
-    <title lang="pt">Show do Presley (Ao Vivo)</title>
+    <title lang="pt">Show do Presley</title>
     <desc lang="pt">com William Presley</desc>
   </programme>
   <programme start="20261117210000 -0300" stop="20261117224500 -0300" channel="latinasat.br">
@@ -174,8 +177,11 @@
     <title lang="pt">South Park</title>
     <desc lang="pt">Humor politicamente incorreto</desc>
   </programme>
-  <programme start="20261118010000 -0300" stop="20261118020000 -0300" channel="latinasat.br">
+  <programme start="20261118010000 -0300" stop="20261118014000 -0300" channel="latinasat.br">
     <title lang="pt">O.C - Um Estranho No Paraíso</title>
+  </programme>
+  <programme start="20261118014000 -0300" stop="20261118020000 -0300" channel="latinasat.br">
+    <title lang="pt">Mr. Bean</title>
   </programme>
   <programme start="20261118020000 -0300" stop="20261118060000 -0300" channel="latinasat.br">
     <title lang="pt">Programação Latinasat FM</title>
@@ -232,12 +238,15 @@
     <title lang="pt">South Park</title>
     <desc lang="pt">Humor politicamente incorreto</desc>
   </programme>
-  <programme start="20261119010000 -0300" stop="20261119014500 -0300" channel="latinasat.br">
+  <programme start="20261119010000 -0300" stop="20261119014000 -0300" channel="latinasat.br">
     <title lang="pt">O.C - Um Estranho No Paraíso</title>
   </programme>
-  <programme start="20261119014500 -0300" stop="20261119060000 -0300" channel="latinasat.br">
-    <title lang="pt">Madrugada Latina</title>
-    <desc lang="pt">Os melhores filmes e séries</desc>
+  <programme start="20261119014000 -0300" stop="20261119020000 -0300" channel="latinasat.br">
+    <title lang="pt">Mr. Bean</title>
+  </programme>
+  <programme start="20261119020000 -0300" stop="20261119060000 -0300" channel="latinasat.br">
+    <title lang="pt">Programação Latinasat FM</title>
+    <desc lang="pt">O melhor da rádio na sua TV</desc>
   </programme>
   <programme start="20261119060000 -0300" stop="20261119120000 -0300" channel="latinasat.br">
     <title lang="pt">Latina Kids</title>
@@ -294,12 +303,15 @@
     <title lang="pt">South Park</title>
     <desc lang="pt">Humor politicamente incorreto</desc>
   </programme>
-  <programme start="20261120010000 -0300" stop="20261120014500 -0300" channel="latinasat.br">
+  <programme start="20261120010000 -0300" stop="20261120014000 -0300" channel="latinasat.br">
     <title lang="pt">O.C - Um Estranho No Paraíso</title>
   </programme>
-  <programme start="20261120014500 -0300" stop="20261120060000 -0300" channel="latinasat.br">
-    <title lang="pt">Madrugada Latina</title>
-    <desc lang="pt">Os melhores filmes e séries</desc>
+  <programme start="20261120014000 -0300" stop="20261120020000 -0300" channel="latinasat.br">
+    <title lang="pt">Mr. Bean</title>
+  </programme>
+  <programme start="20261120020000 -0300" stop="20261120060000 -0300" channel="latinasat.br">
+    <title lang="pt">Programação Latinasat FM</title>
+    <desc lang="pt">O melhor da rádio na sua TV</desc>
   </programme>
   <programme start="20261120060000 -0300" stop="20261120120000 -0300" channel="latinasat.br">
     <title lang="pt">Latina Kids</title>
