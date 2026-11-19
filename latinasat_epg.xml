@@ -3,11 +3,11 @@
   <channel id="latinasat.br">
     <display-name>Latina Sat Brasil</display-name>
   </channel>
-  <programme start="20261115000000 -0300" stop="20261115011500 -0300" channel="latinasat.br">
+  <programme start="20261115000000 -0300" stop="20261115023000 -0300" channel="latinasat.br">
     <title lang="pt">South Park</title>
     <desc lang="pt">Humor politicamente incorreto</desc>
   </programme>
-  <programme start="20261115011500 -0300" stop="20261115060000 -0300" channel="latinasat.br">
+  <programme start="20261115023000 -0300" stop="20261115060000 -0300" channel="latinasat.br">
     <title lang="pt">Programação Latinasat FM</title>
     <desc lang="pt">O melhor da rádio na sua TV</desc>
   </programme>
@@ -119,15 +119,15 @@
   <programme start="20261117010000 -0300" stop="20261117014000 -0300" channel="latinasat.br">
     <title lang="pt">O.C - Um Estranho No Paraíso</title>
   </programme>
-  <programme start="20261117014000 -0300" stop="20261117020000 -0300" channel="latinasat.br">
+  <programme start="20261117014000 -0300" stop="20261117023000 -0300" channel="latinasat.br">
     <title lang="pt">Mr. Bean</title>
   </programme>
-  <programme start="20261117020000 -0300" stop="20261117060000 -0300" channel="latinasat.br">
+  <programme start="20261117023000 -0300" stop="20261117060000 -0300" channel="latinasat.br">
     <title lang="pt">Programação Latinasat FM</title>
     <desc lang="pt">O melhor da rádio na sua TV</desc>
   </programme>
   <programme start="20261117060000 -0300" stop="20261117120000 -0300" channel="latinasat.br">
-    <title lang="pt">Latina Kids</title>
+    <title lang="pt">Latina Kidss</title>
     <desc lang="pt">Desenhos clássicos</desc>
   </programme>
   <programme start="20261117120000 -0300" stop="20261117121500 -0300" channel="latinasat.br">
@@ -152,6 +152,7 @@
   </programme>
   <programme start="20261117190000 -0300" stop="20261117194500 -0300" channel="latinasat.br">
     <title lang="pt">Novela: A Cor da Paixão</title>
+    <desc lang="pt">Cap. 48</desc>
   </programme>
   <programme start="20261117194500 -0300" stop="20261117201500 -0300" channel="latinasat.br">
     <title lang="pt">Latina no Ar</title>
@@ -180,10 +181,10 @@
   <programme start="20261118010000 -0300" stop="20261118014000 -0300" channel="latinasat.br">
     <title lang="pt">O.C - Um Estranho No Paraíso</title>
   </programme>
-  <programme start="20261118014000 -0300" stop="20261118020000 -0300" channel="latinasat.br">
+  <programme start="20261118014000 -0300" stop="20261118023000 -0300" channel="latinasat.br">
     <title lang="pt">Mr. Bean</title>
   </programme>
-  <programme start="20261118020000 -0300" stop="20261118060000 -0300" channel="latinasat.br">
+  <programme start="20261118023000 -0300" stop="20261118060000 -0300" channel="latinasat.br">
     <title lang="pt">Programação Latinasat FM</title>
     <desc lang="pt">O melhor da rádio na sua TV</desc>
   </programme>
@@ -213,6 +214,7 @@
   </programme>
   <programme start="20261118190000 -0300" stop="20261118194500 -0300" channel="latinasat.br">
     <title lang="pt">Novela: A Cor da Paixão</title>
+    <desc lang="pt">Cap. 49</desc>
   </programme>
   <programme start="20261118194500 -0300" stop="20261118200000 -0300" channel="latinasat.br">
     <title lang="pt">Latina no Ar</title>
@@ -241,10 +243,10 @@
   <programme start="20261119010000 -0300" stop="20261119014000 -0300" channel="latinasat.br">
     <title lang="pt">O.C - Um Estranho No Paraíso</title>
   </programme>
-  <programme start="20261119014000 -0300" stop="20261119020000 -0300" channel="latinasat.br">
+  <programme start="20261119014000 -0300" stop="20261119023000 -0300" channel="latinasat.br">
     <title lang="pt">Mr. Bean</title>
   </programme>
-  <programme start="20261119020000 -0300" stop="20261119060000 -0300" channel="latinasat.br">
+  <programme start="20261119023000 -0300" stop="20261119060000 -0300" channel="latinasat.br">
     <title lang="pt">Programação Latinasat FM</title>
     <desc lang="pt">O melhor da rádio na sua TV</desc>
   </programme>
@@ -274,6 +276,7 @@
   </programme>
   <programme start="20261119190000 -0300" stop="20261119194500 -0300" channel="latinasat.br">
     <title lang="pt">Novela: A Cor da Paixão</title>
+    <desc lang="pt">Cap. 50</desc>
   </programme>
   <programme start="20261119194500 -0300" stop="20261119201000 -0300" channel="latinasat.br">
     <title lang="pt">Latina no Ar</title>
@@ -306,10 +309,10 @@
   <programme start="20261120010000 -0300" stop="20261120014000 -0300" channel="latinasat.br">
     <title lang="pt">O.C - Um Estranho No Paraíso</title>
   </programme>
-  <programme start="20261120014000 -0300" stop="20261120020000 -0300" channel="latinasat.br">
+  <programme start="20261120014000 -0300" stop="20261120023000 -0300" channel="latinasat.br">
     <title lang="pt">Mr. Bean</title>
   </programme>
-  <programme start="20261120020000 -0300" stop="20261120060000 -0300" channel="latinasat.br">
+  <programme start="20261120023000 -0300" stop="20261120060000 -0300" channel="latinasat.br">
     <title lang="pt">Programação Latinasat FM</title>
     <desc lang="pt">O melhor da rádio na sua TV</desc>
   </programme>
@@ -338,6 +341,7 @@
   </programme>
   <programme start="20261120190000 -0300" stop="20261120194500 -0300" channel="latinasat.br">
     <title lang="pt">Novela: A Cor da Paixão</title>
+    <desc lang="pt">Cap. 51</desc>
   </programme>
   <programme start="20261120194500 -0300" stop="20261120200000 -0300" channel="latinasat.br">
     <title lang="pt">Latina no Ar</title>
@@ -365,10 +369,10 @@
   <programme start="20261121010000 -0300" stop="20261121014000 -0300" channel="latinasat.br">
     <title lang="pt">O.C - Um Estranho No Paraíso</title>
   </programme>
-  <programme start="20261121014000 -0300" stop="20261121020000 -0300" channel="latinasat.br">
+  <programme start="20261121014000 -0300" stop="20261121023000 -0300" channel="latinasat.br">
     <title lang="pt">Mr. Bean</title>
   </programme>
-  <programme start="20261121020000 -0300" stop="20261121060000 -0300" channel="latinasat.br">
+  <programme start="20261121023000 -0300" stop="20261121060000 -0300" channel="latinasat.br">
     <title lang="pt">Programação Latinasat FM</title>
     <desc lang="pt">O melhor da rádio na sua TV</desc>
   </programme>
