@@ -25,17 +25,20 @@
     <title lang="pt">Latina Kids</title>
     <desc lang="pt">Desenhos clássicos</desc>
   </programme>
-  <programme start="20261122120000 -0300" stop="20261122121500 -0300" channel="latinasat.br">
+  <programme start="20261122120000 -0300" stop="20261122120500 -0300" channel="latinasat.br">
     <title lang="pt">Boletim Latina Brasil</title>
     <desc lang="pt">As principais notícias do dia</desc>
   </programme>
-  <programme start="20261122121500 -0300" stop="20261122153000 -0300" channel="latinasat.br">
+  <programme start="20261122120500 -0300" stop="20261122152500 -0300" channel="latinasat.br">
     <title lang="pt">Séries Premiadas</title>
     <desc lang="pt">Clube do Terror / Três é Demais / Chris / Chaves</desc>
   </programme>
-  <programme start="20261122153000 -0300" stop="20261122180000 -0300" channel="latinasat.br">
+  <programme start="20261122152500 -0300" stop="20261122171500 -0300" channel="latinasat.br">
     <title lang="pt">Cine Fun</title>
     <desc lang="pt">Filmes para a família</desc>
+  </programme>
+  <programme start="20261122171500 -0300" stop="20261122180000 -0300" channel="latinasat.br">
+    <title lang="pt">Pica-Pau</title>
   </programme>
   <programme start="20261122180000 -0300" stop="20261122200000 -0300" channel="latinasat.br">
     <title lang="pt">Os Simpsons</title>
@@ -70,17 +73,20 @@
     <title lang="pt">Latina Kids</title>
     <desc lang="pt">Desenhos clássicos</desc>
   </programme>
-  <programme start="20261123120000 -0300" stop="20261123121500 -0300" channel="latinasat.br">
+  <programme start="20261123120000 -0300" stop="20261123120500 -0300" channel="latinasat.br">
     <title lang="pt">Boletim Latina Brasil</title>
     <desc lang="pt">As principais notícias do dia</desc>
   </programme>
-  <programme start="20261123121500 -0300" stop="20261123153000 -0300" channel="latinasat.br">
+  <programme start="20261123120500 -0300" stop="20261123152500 -0300" channel="latinasat.br">
     <title lang="pt">Séries Premiadas</title>
     <desc lang="pt">Clube do Terror / Três é Demais / Chris / Chaves</desc>
   </programme>
-  <programme start="20261123153000 -0300" stop="20261123180000 -0300" channel="latinasat.br">
+  <programme start="20261123152500 -0300" stop="20261123171500 -0300" channel="latinasat.br">
     <title lang="pt">Cine Fun</title>
     <desc lang="pt">Filmes para a família</desc>
+  </programme>
+  <programme start="20261123171500 -0300" stop="20261123180000 -0300" channel="latinasat.br">
+    <title lang="pt">Pica-Pau</title>
   </programme>
   <programme start="20261123180000 -0300" stop="20261123180500 -0300" channel="latinasat.br">
     <title lang="pt">Boletim Latina Brasil</title>
@@ -130,17 +136,20 @@
     <title lang="pt">Latina Kids</title>
     <desc lang="pt">Desenhos clássicos</desc>
   </programme>
-  <programme start="20261124120000 -0300" stop="20261124121500 -0300" channel="latinasat.br">
+  <programme start="20261124120000 -0300" stop="20261124120500 -0300" channel="latinasat.br">
     <title lang="pt">Boletim Latina Brasil</title>
     <desc lang="pt">As principais notícias do dia</desc>
   </programme>
-  <programme start="20261124121500 -0300" stop="20261124153000 -0300" channel="latinasat.br">
+  <programme start="20261124120500 -0300" stop="20261124152500 -0300" channel="latinasat.br">
     <title lang="pt">Séries Premiadas</title>
     <desc lang="pt">Clube do Terror / Três é Demais / Chris / Chaves</desc>
   </programme>
-  <programme start="20261124153000 -0300" stop="20261124180000 -0300" channel="latinasat.br">
+  <programme start="20261124152500 -0300" stop="20261124171500 -0300" channel="latinasat.br">
     <title lang="pt">Cine Fun</title>
     <desc lang="pt">Filmes para a família</desc>
+  </programme>
+  <programme start="20261124171500 -0300" stop="20261124180000 -0300" channel="latinasat.br">
+    <title lang="pt">Pica-Pau</title>
   </programme>
   <programme start="20261124180000 -0300" stop="20261124180500 -0300" channel="latinasat.br">
     <title lang="pt">Boletim Latina Brasil</title>
@@ -192,17 +201,20 @@
     <title lang="pt">Latina Kids</title>
     <desc lang="pt">Desenhos clássicos</desc>
   </programme>
-  <programme start="20261125120000 -0300" stop="20261125121500 -0300" channel="latinasat.br">
+  <programme start="20261125120000 -0300" stop="20261125120500 -0300" channel="latinasat.br">
     <title lang="pt">Boletim Latina Brasil</title>
     <desc lang="pt">As principais notícias do dia</desc>
   </programme>
-  <programme start="20261125121500 -0300" stop="20261125153000 -0300" channel="latinasat.br">
+  <programme start="20261125120500 -0300" stop="20261125152500 -0300" channel="latinasat.br">
     <title lang="pt">Séries Premiadas</title>
     <desc lang="pt">Clube do Terror / Três é Demais / Chris / Chaves</desc>
   </programme>
-  <programme start="20261125153000 -0300" stop="20261125180000 -0300" channel="latinasat.br">
+  <programme start="20261125152500 -0300" stop="20261125171500 -0300" channel="latinasat.br">
     <title lang="pt">Cine Fun</title>
     <desc lang="pt">Filmes para a família</desc>
+  </programme>
+  <programme start="20261125171500 -0300" stop="20261125180000 -0300" channel="latinasat.br">
+    <title lang="pt">Pica-Pau</title>
   </programme>
   <programme start="20261125180000 -0300" stop="20261125180500 -0300" channel="latinasat.br">
     <title lang="pt">Boletim Latina Brasil</title>
@@ -254,17 +266,20 @@
     <title lang="pt">Latina Kids</title>
     <desc lang="pt">Desenhos clássicos</desc>
   </programme>
-  <programme start="20261126120000 -0300" stop="20261126121500 -0300" channel="latinasat.br">
+  <programme start="20261126120000 -0300" stop="20261126120500 -0300" channel="latinasat.br">
     <title lang="pt">Boletim Latina Brasil</title>
     <desc lang="pt">As principais notícias do dia</desc>
   </programme>
-  <programme start="20261126121500 -0300" stop="20261126153000 -0300" channel="latinasat.br">
+  <programme start="20261126120500 -0300" stop="20261126152500 -0300" channel="latinasat.br">
     <title lang="pt">Séries Premiadas</title>
     <desc lang="pt">Clube do Terror / Três é Demais / Chris / Chaves</desc>
   </programme>
-  <programme start="20261126153000 -0300" stop="20261126180000 -0300" channel="latinasat.br">
+  <programme start="20261126152500 -0300" stop="20261126171500 -0300" channel="latinasat.br">
     <title lang="pt">Cine Fun</title>
     <desc lang="pt">Filmes para a família</desc>
+  </programme>
+  <programme start="20261126171500 -0300" stop="20261126180000 -0300" channel="latinasat.br">
+    <title lang="pt">Pica-Pau</title>
   </programme>
   <programme start="20261126180000 -0300" stop="20261126180500 -0300" channel="latinasat.br">
     <title lang="pt">Boletim Latina Brasil</title>
@@ -320,17 +335,20 @@
     <title lang="pt">Latina Kids</title>
     <desc lang="pt">Desenhos clássicos</desc>
   </programme>
-  <programme start="20261127120000 -0300" stop="20261127121500 -0300" channel="latinasat.br">
+  <programme start="20261127120000 -0300" stop="20261127120500 -0300" channel="latinasat.br">
     <title lang="pt">Boletim Latina Brasil</title>
     <desc lang="pt">As principais notícias do dia</desc>
   </programme>
-  <programme start="20261127121500 -0300" stop="20261127153000 -0300" channel="latinasat.br">
+  <programme start="20261127120500 -0300" stop="20261127152500 -0300" channel="latinasat.br">
     <title lang="pt">Séries Premiadas</title>
     <desc lang="pt">Clube do Terror / Três é Demais / Chris / Chaves</desc>
   </programme>
-  <programme start="20261127153000 -0300" stop="20261127180000 -0300" channel="latinasat.br">
+  <programme start="20261127152500 -0300" stop="20261127171500 -0300" channel="latinasat.br">
     <title lang="pt">Cine Fun</title>
     <desc lang="pt">Filmes para a família</desc>
+  </programme>
+  <programme start="20261127171500 -0300" stop="20261127180000 -0300" channel="latinasat.br">
+    <title lang="pt">Pica-Pau</title>
   </programme>
   <programme start="20261127180000 -0300" stop="20261127180500 -0300" channel="latinasat.br">
     <title lang="pt">Boletim Latina Brasil</title>
@@ -387,17 +405,20 @@
     <title lang="pt">Latina Kids</title>
     <desc lang="pt">Desenhos clássicos</desc>
   </programme>
-  <programme start="20261128120000 -0300" stop="20261128121500 -0300" channel="latinasat.br">
+  <programme start="20261128120000 -0300" stop="20261128120500 -0300" channel="latinasat.br">
     <title lang="pt">Boletim Latina Brasil</title>
     <desc lang="pt">As principais notícias do dia</desc>
   </programme>
-  <programme start="20261128121500 -0300" stop="20261128153000 -0300" channel="latinasat.br">
+  <programme start="20261128120500 -0300" stop="20261128152500 -0300" channel="latinasat.br">
     <title lang="pt">Séries Premiadas</title>
     <desc lang="pt">Clube do Terror / Três é Demais / Chris / Chaves</desc>
   </programme>
-  <programme start="20261128153000 -0300" stop="20261128180000 -0300" channel="latinasat.br">
+  <programme start="20261128152500 -0300" stop="20261128171500 -0300" channel="latinasat.br">
     <title lang="pt">Cine Fun</title>
     <desc lang="pt">Filmes para a família</desc>
+  </programme>
+  <programme start="20261128171500 -0300" stop="20261128180000 -0300" channel="latinasat.br">
+    <title lang="pt">Pica-Pau</title>
   </programme>
   <programme start="20261128180000 -0300" stop="20261128200000 -0300" channel="latinasat.br">
     <title lang="pt">Os Simpsons</title>
